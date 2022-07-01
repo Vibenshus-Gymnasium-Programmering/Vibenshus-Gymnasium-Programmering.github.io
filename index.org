@@ -1,0 +1,18 @@
+#+title: Programmering B 2022 - 2024
+#+subtitle: Vibenshus Gymnasium
+#+author: Jacob Debel
+#+date: 2022-2024
+#+options: toc:t num:nil tags:nil timestamp:nil ^:{}
+#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+
+* Lektionsbeskrivelser
+
+* Præsentationer
+
+* Opgaver
+
+* UVB
+
+* Om
+Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.\\
+Faktisk er der blot tale om en simpel org-mode-fil, som er eksporteret til html og css vha. [[https://github.com/fniessen/org-html-themes]].
