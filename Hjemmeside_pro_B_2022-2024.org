@@ -3,16 +3,47 @@
 #+author: Jacob Debel
 #+date: 2022-2024
 #+options: toc:t num:nil tags:nil timestamp:nil ^:{}
-#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+# #+setupfile: ./org-html-themes/org/theme-bigblow-local.setup
+#+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
 
+** <2022-08-08 man>
+I dag står den på introduktion til faget programmering B. I kan finde den tilhørende præsentationer under fanen Præsentationer her på siden.
+
+Efter selve introduktionen til faget går vi så småt i gang med at installere det programmel (det danske ord for software), som vi skal bruge.
+
+[[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
+
 * Præsentationer
 
+** Git
+
+Her er præsentationen til opsætning af og opgaverne om ~git~.
+
+[[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/]]
+
+** Introduktion til faget
+
+Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
+
+[[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
+
 * Opgaver
+** Logbog
+Opret jeres logbog ved at følge linket her: [[https://classroom.github.com/a/slPR9059]]
+
+Sørg for at føre logbog hver uge. Der bliver holdt øje med jer. :)
 
 * UVB
-
+** Git
+** Grundlæggende programmering med ~python arcade~
+** Udvikling af GUIs med ~pyside6~
+** Kryptografi
+** Robotstyring - Lego Mindstorms
+** Machine Learning
 * Om
-Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.\\
+Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
+
 Faktisk er der blot tale om en simpel org-mode-fil, som er eksporteret til html og css vha. [[https://github.com/fniessen/org-html-themes]].
