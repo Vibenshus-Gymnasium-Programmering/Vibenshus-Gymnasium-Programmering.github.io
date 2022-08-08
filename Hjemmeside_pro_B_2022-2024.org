@@ -9,6 +9,17 @@
 
 * Lektionsbeskrivelser
 
+** <2022-08-11 tor>
+
+*Dagens lektie*
+
+Alle skal gerne have installeret =git=, =python= og en editor/et IDE (vælg pycharm, hvis I er i tvivl. [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/][Se præsentationen fra sidste gang]] for en vejledning til installation af programmerne.)
+
+*Dagens program*
+
+Vi skal i dag arbejde med brugen af =git= og vi tager udgangspunkt i præsentationen om netop =git= [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/][her]]. I kan også finde linket til præsentationen under fanen Præsentationer her på siden.
+
+
 ** <2022-08-08 man>
 I dag står den på introduktion til faget programmering B. I kan finde den tilhørende præsentationer under fanen Præsentationer her på siden.
 
@@ -16,6 +27,8 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 
 [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 
+*Post Scriptum*
+Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
 
 ** Git
