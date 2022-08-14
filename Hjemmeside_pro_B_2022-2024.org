@@ -9,7 +9,18 @@
 
 * Lektionsbeskrivelser
 
-** <2022-08-11 tor>
+** [2022-08-15 man]
+Sidste gang gik der meget tid med download og opsætning af programmer.
+
+*Dagens program er:*
+- Alle skal have downloadet deres *logbog* fra deres tilhørende =git=-repo.
+- Alle skal have læst README-filen og de tilhørende logbogsfiler (.md og .org)
+- Alle skal have skrevet nogle noter i deres logbog, hvor der anvendes markdown- eller org mode-notation.
+- Noterne skal som minimum beskrive, hvilke kommandoer der skal køres for at =committe=, og =pushe= ændringer.
+- Alle skal glemme deres logbog ved at =committe= ændringerne.
+- Alle skal have =pushet= deres logbøger til deres =git=-repos.
+
+** [2022-08-11 tor]
 
 *Dagens lektie*
 
@@ -20,7 +31,7 @@ Alle skal gerne have installeret =git=, =python= og en editor/et IDE (vælg pych
 Vi skal i dag arbejde med brugen af =git= og vi tager udgangspunkt i præsentationen om netop =git= [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/][her]]. I kan også finde linket til præsentationen under fanen Præsentationer her på siden.
 
 
-** <2022-08-08 man>
+** [2022-08-08 man]
 I dag står den på introduktion til faget programmering B. I kan finde den tilhørende præsentationer under fanen Præsentationer her på siden.
 
 Efter selve introduktionen til faget går vi så småt i gang med at installere det programmel (det danske ord for software), som vi skal bruge.
