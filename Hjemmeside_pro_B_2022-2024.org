@@ -8,6 +8,14 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** [2022-08-18 tor]
+Jeg kan se, at stort set alle har fået committet en ændring i deres logbog, og pushet den til github. Godt arbejde!
+
+I dag skal vi se nærmere på, hvad git ellers kan. Til formålet anvender vi [[https://learngitbranching.js.org/]]
+
+Når I rigtig skal bruge git til jeres udvikling af programmer. Foreslår jeg, at I anvender [[https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow][Git Feature Branch workflow]], når I arbejder alene, og [[https://docs.github.com/en/get-started/quickstart/github-flow][github flow]] når I skal til at arbejde sammen i grupper. Begge workflows går ud på at skabe nye grene (branches), og så udvikle nye features i dem. Når en feature er færdig, checker man main-grenen ud og merger med featurebranchen. Alternativt kan man, mens man står i sin featurebranch *rebase* med main, når featuren er færdig. *Dette øver vi os på med logbogen.*
+
+I logbogen skal I som minimum skrive de kommandoer ned, som skal bruges, når man arbejder med git feature branch workflow. Altså beskriv arbejdsgangen.
 
 ** [2022-08-15 man]
 Sidste gang gik der meget tid med download og opsætning af programmer.
@@ -20,7 +28,9 @@ Sidste gang gik der meget tid med download og opsætning af programmer.
 - Alle skal glemme deres logbog ved at =committe= ændringerne.
 - Alle skal have =pushet= deres logbøger til deres =git=-repos.
 
-** [2022-08-11 tor]
+  
+** Uge 32
+*** [2022-08-11 tor]
 
 *Dagens lektie*
 
@@ -31,7 +41,7 @@ Alle skal gerne have installeret =git=, =python= og en editor/et IDE (vælg pych
 Vi skal i dag arbejde med brugen af =git= og vi tager udgangspunkt i præsentationen om netop =git= [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/][her]]. I kan også finde linket til præsentationen under fanen Præsentationer her på siden.
 
 
-** [2022-08-08 man]
+*** [2022-08-08 man]
 I dag står den på introduktion til faget programmering B. I kan finde den tilhørende præsentationer under fanen Præsentationer her på siden.
 
 Efter selve introduktionen til faget går vi så småt i gang med at installere det programmel (det danske ord for software), som vi skal bruge.
