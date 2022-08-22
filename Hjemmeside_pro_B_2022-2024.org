@@ -8,7 +8,20 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** [2022-08-18 tor]
+** [2022-08-22 man]
+I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som følger:
+- Opret en ny gren (branch). Den kan f.eks. hedder oprydning.
+  - Ryd op i de filer, I gerne vil beholde, mens I sletter dem, som I ikke har brug for længere.
+  - Det kunne f.eks. være én logbogsfil og en fil med en oversigt over, hvordan man skriver markdown- eller org mode-filer.
+  - Indholdet i jeres logbog skal indeholde et afsnit over de mest anvendelige gitkommandoer og en beskrivelse af, hvordan git skal bruges.
+  - Der skal også indsættes links til hjemmesider, hvor I kan læse mere om brugen af git.
+- Husk at committe en eller flere gange i jeres nye gren.
+- Når I er tilfredse med jeres oprydningsgren, skal I merge eller rebase indholdet til jeres main-gren.
+** Uge 33
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+*** [2022-08-18 tor]
 Jeg kan se, at stort set alle har fået committet en ændring i deres logbog, og pushet den til github. Godt arbejde!
 
 I dag skal vi se nærmere på, hvad git ellers kan. Til formålet anvender vi [[https://learngitbranching.js.org/]]
@@ -17,7 +30,7 @@ Når I rigtig skal bruge git til jeres udvikling af programmer. Foreslår jeg, a
 
 I logbogen skal I som minimum skrive de kommandoer ned, som skal bruges, når man arbejder med git feature branch workflow. Altså beskriv arbejdsgangen.
 
-** [2022-08-15 man]
+*** [2022-08-15 man]
 Sidste gang gik der meget tid med download og opsætning af programmer.
 
 *Dagens program er:*
@@ -30,6 +43,9 @@ Sidste gang gik der meget tid med download og opsætning af programmer.
 
   
 ** Uge 32
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
 *** [2022-08-11 tor]
 
 *Dagens lektie*
