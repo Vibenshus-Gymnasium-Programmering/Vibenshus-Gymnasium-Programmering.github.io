@@ -8,7 +8,18 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** [2022-08-22 man]
+** [2022-08-25 tor]                                           :python:print:
+Så går vi for alvor i gang med selve programmeringen. I dag skal vi se på de allerførste simple programstumper i =python=.
+
+- Hvis I vil forberede jer hjemmefra, så skal I læse indholdet/se videoerne på dette link: [[https://learn.arcade.academy/en/latest/chapters/04_print_statement/print_statement.html]]
+
+- Jeg vil gennemgå følgende "præsenation" i undervisningstiden (Det er et destillat af lektien): [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/01_printfunktionen/01_printfunktionen.org]]
+
+- I kan finde alle præsentationer til vores forløb med =arcade=​-biblioteket her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer]]
+
+- Endelig kommer I til at skulle arbejde med og aflevere følgende opgave på git classroom: [[https://classroom.github.com/a/_g8EyUgY]]
+
+** [2022-08-22 man]                                                    :git:
 I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som følger:
 - Opret en ny gren (branch). Den kan f.eks. hedder oprydning.
   - Ryd op i de filer, I gerne vil beholde, mens I sletter dem, som I ikke har brug for længere.
@@ -21,7 +32,7 @@ I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-*** [2022-08-18 tor]
+*** [2022-08-18 tor]                                                  :git:
 Jeg kan se, at stort set alle har fået committet en ændring i deres logbog, og pushet den til github. Godt arbejde!
 
 I dag skal vi se nærmere på, hvad git ellers kan. Til formålet anvender vi [[https://learngitbranching.js.org/]]
@@ -30,7 +41,7 @@ Når I rigtig skal bruge git til jeres udvikling af programmer. Foreslår jeg, a
 
 I logbogen skal I som minimum skrive de kommandoer ned, som skal bruges, når man arbejder med git feature branch workflow. Altså beskriv arbejdsgangen.
 
-*** [2022-08-15 man]
+*** [2022-08-15 man]                                                  :git:
 Sidste gang gik der meget tid med download og opsætning af programmer.
 
 *Dagens program er:*
@@ -46,7 +57,7 @@ Sidste gang gik der meget tid med download og opsætning af programmer.
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-*** [2022-08-11 tor]
+*** [2022-08-11 tor]                                                :intro:
 
 *Dagens lektie*
 
@@ -57,7 +68,7 @@ Alle skal gerne have installeret =git=, =python= og en editor/et IDE (vælg pych
 Vi skal i dag arbejde med brugen af =git= og vi tager udgangspunkt i præsentationen om netop =git= [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/][her]]. I kan også finde linket til præsentationen under fanen Præsentationer her på siden.
 
 
-*** [2022-08-08 man]
+*** [2022-08-08 man]                                                :intro:
 I dag står den på introduktion til faget programmering B. I kan finde den tilhørende præsentationer under fanen Præsentationer her på siden.
 
 Efter selve introduktionen til faget går vi så småt i gang med at installere det programmel (det danske ord for software), som vi skal bruge.
@@ -67,6 +78,14 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 *Post Scriptum*
 Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
+
+** Arcade
+
+Her er et link til alle præsentationerne anvendt i forløbet omkring =arcade=​-bibliotektet.
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer]]
+
+Hver præsentation er blot en =org mode=-fil, som vil blive fremvist i emacs. Fidusen ved dette er, at kodestumperne kan eksekveres direkte fra emacs, og der kan ændres i koden direkte, uden at skulle åbne et andet program.
 
 ** Git
 
@@ -81,6 +100,13 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 
 * Opgaver
+** Arcade
+*** Printfunktionen
+Her er linket til jeres første opgave, som har noget med pythonkode at gøre.
+
+[[https://classroom.github.com/a/_g8EyUgY]]
+
+Sørg for at klone jeres tildelte repo ned på jeres lokale maskine.
 ** Logbog
 Opret jeres logbog ved at følge linket her: [[https://classroom.github.com/a/slPR9059]]
 
