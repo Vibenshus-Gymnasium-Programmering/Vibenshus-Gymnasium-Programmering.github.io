@@ -2,7 +2,7 @@
 #+subtitle: Vibenshus Gymnasium
 #+author: Jacob Debel
 #+date: 2022-2024
-#+options: toc:t num:nil tags:nil timestamp:nil ^:{}
+#+options: toc:t num:nil tags:t timestamp:nil ^:{}
 # #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
 # #+setupfile: ./org-html-themes/org/theme-bigblow-local.setup
 #+setupfile: ./theme-bigblow-local.setup
