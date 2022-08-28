@@ -8,18 +8,28 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** [2022-08-25 tor]                                           :python:print:
+** [2022-08-29 man]                                      :arcade:funktioner:
+I dag skal I til at anvende biblioteket =arcade=. Vi skal bruge det til at tegne billeder vha geometriske figurer.
+
+- Hvis I vil forberede jer inden, så læs her: [[https://learn.arcade.academy/en/latest/chapters/05_drawing/drawing.html]]
+
+- Jeg vil gennemgå følgende præsentation, som I kan følge med i på github: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/02_Tegn_med_arcade/02_Tegn_med_arcade.org]]
+
+- I skal arbejde med følgende opgave på github (classroom): [[https://classroom.github.com/a/-LD3l093]]
+
+** Uge 34
+*** [2022-08-25 tor]                                                :print:
 Så går vi for alvor i gang med selve programmeringen. I dag skal vi se på de allerførste simple programstumper i =python=.
 
 - Hvis I vil forberede jer hjemmefra, så skal I læse indholdet/se videoerne på dette link: [[https://learn.arcade.academy/en/latest/chapters/04_print_statement/print_statement.html]]
 
-- Jeg vil gennemgå følgende "præsenation" i undervisningstiden (Det er et destillat af lektien): [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/01_printfunktionen/01_printfunktionen.org]]
+- Jeg vil gennemgå følgende "præsentation" i undervisningstiden (Det er et destillat af lektien): [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/01_printfunktionen/01_printfunktionen.org]]
 
 - I kan finde alle præsentationer til vores forløb med =arcade=​-biblioteket her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer]]
 
 - Endelig kommer I til at skulle arbejde med og aflevere følgende opgave på git classroom: [[https://classroom.github.com/a/_g8EyUgY]]
 
-** [2022-08-22 man]                                                    :git:
+*** [2022-08-22 man]                                                  :git:
 I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som følger:
 - Opret en ny gren (branch). Den kan f.eks. hedder oprydning.
   - Ryd op i de filer, I gerne vil beholde, mens I sletter dem, som I ikke har brug for længere.
