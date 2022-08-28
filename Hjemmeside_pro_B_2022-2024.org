@@ -111,7 +111,12 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 
 * Opgaver
 ** Arcade
-*** Printfunktionen
+*** Opgave 02 Tegn et billede
+Her er linket til jeres anden opgave. I denne opgave skal I anvende biblioteket =arcade= til at tegne billeder vha geometriske figurer. Det er en øvelse i at kalde funktioner i python.
+
+[[https://classroom.github.com/a/-LD3l093]]
+
+*** Opgave 01 Printfunktionen
 Her er linket til jeres første opgave, som har noget med pythonkode at gøre.
 
 [[https://classroom.github.com/a/_g8EyUgY]]
