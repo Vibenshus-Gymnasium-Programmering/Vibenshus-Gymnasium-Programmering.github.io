@@ -8,10 +8,22 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** [2022-09-01 tor]                                      :arcade:funktioner:
+** [2022-09-05 man]                                      :arcade:funktioner:
+Dagens ene lektion bruges på at færdiggøre sit billede i arcade. *Alle* skal have gemt sit arbejde i github gennem github classroom, inden lektionen er omme.
+
+- Hvis man ikke allerede har fundet ud af at anvende ~git~ gennem ~pycharm~, så er det også i dag, at det skal sættes op. Det gør livet noget nemmere for den fremtidige programmør. :)
+
+- Hvis man allerede har gemt et billede på github, så skal der tilføjes en ekstra detalje i dag. Dette skal gøres ved
+  - først at oprette en ny /feature/ branch i git.
+  - checke den nye branch ud.
+  - arbejde med sin nye detalje mens der committes til den nye branch.
+  - Når den nye detalje endelig er helt på plads, checkes main branchen ud.
+  - I main branchen ~merges~ feature branchen, som det sidste.
+** Uge 35
+*** [2022-09-01 tor]                                    :arcade:funktioner:
 I dag skal vi lige se præsentationen færdig omkring brugen af ~arcade~. Efterfølgende skal I arbejde med opgaven omkring tegning af et billede vha primitive geometriske figurer. Opgaven ligger på github classroom. Se linket fra sidste lektion.
 
-** [2022-08-29 man]                                      :arcade:funktioner:
+*** [2022-08-29 man]                                    :arcade:funktioner:
 I dag skal I til at anvende biblioteket =arcade=. Vi skal bruge det til at tegne billeder vha geometriske figurer.
 
 - Hvis I vil forberede jer inden, så læs her: [[https://learn.arcade.academy/en/latest/chapters/05_drawing/drawing.html]]
