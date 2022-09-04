@@ -8,6 +8,9 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** [2022-09-01 tor]                                      :arcade:funktioner:
+I dag skal vi lige se præsentationen færdig omkring brugen af ~arcade~. Efterfølgende skal I arbejde med opgaven omkring tegning af et billede vha primitive geometriske figurer. Opgaven ligger på github classroom. Se linket fra sidste lektion.
+
 ** [2022-08-29 man]                                      :arcade:funktioner:
 I dag skal I til at anvende biblioteket =arcade=. Vi skal bruge det til at tegne billeder vha geometriske figurer.
 
