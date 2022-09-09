@@ -8,7 +8,14 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** [2022-09-08 tor]                             :arcade:funktioner:variable:
+** [2022-09-12 man]                                      :arcade:funktioner:
+I dagens ene lektion skal vi se på, hvordan man *selv* kan konstruere funktioner.
+I kan finde præsentationen her:
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/04_Funktioner/04_Funktioner.org][04_Funktioner.org]]
+
+** Uge 36
+*** [2022-09-08 tor]                           :arcade:funktioner:variable:
 I dag skal vi have lidt mere teori omkring variable og definition af egne funktioner.
 
 Vi har følgende 3 præsentationer til gode
@@ -19,7 +26,7 @@ Vi har følgende 3 præsentationer til gode
 Samt denne opgave på github classroom
 - [[https://classroom.github.com/a/uem17Egi]]
 
-** [2022-09-05 man]                                      :arcade:funktioner:
+*** [2022-09-05 man]                                    :arcade:funktioner:
 Dagens ene lektion bruges på at færdiggøre sit billede i arcade. *Alle* skal have gemt sit arbejde i github gennem github classroom, inden lektionen er omme.
 
 - Hvis man ikke allerede har fundet ud af at anvende ~git~ gennem ~pycharm~, så er det også i dag, at det skal sættes op. Det gør livet noget nemmere for den fremtidige programmør. :)
