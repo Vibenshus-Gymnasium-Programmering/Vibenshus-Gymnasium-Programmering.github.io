@@ -8,6 +8,12 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 39
+*** [2022-09-26 man]                                    :arcade:funktioner:
+Vi fortsætter vores arbejde med at omdanne gamle programmer til at tegne billeder vha funktioner.
+*Alle* skal pushe deres arbejde til deres gitrepo, inden lektionen er slut.
+
+Nogle enkelte af jer har endnu ikke accepteret opgaven i github classroom. Find opgaven her: [[https://classroom.github.com/a/uem17Egi]].
 ** Uge 38
 *** [2022-09-19 man] og [2022-09-22 tor]                :arcade:funktioner:
 I ugens lektioner skal der arbejdes med at refaktorisere den gamle kode til at tegne billeder vha ~arcade~ til at anvende funktioner.
