@@ -156,6 +156,11 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 
 * Opgaver
 ** Arcade
+*** Opgave 04 Flugten på Dune
+Her er linket til jeres første spilopgave. Spillet skal være rent tekstbaseret og benytter sig af betinget udførelse (if statements) og tilfældige tal (random numbers)
+
+[[https://classroom.github.com/a/ol5aRD7M]]
+
 *** Opgave 03 Tegn med funktioner
 Her er linket til jeres tredje opgave. I denne opgave skal I omskrive jeres tidligere opgave, så I anvender variable og funktioner til at tegne jeres billeder.
 
