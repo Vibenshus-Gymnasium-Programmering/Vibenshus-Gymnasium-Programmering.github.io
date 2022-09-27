@@ -9,6 +9,11 @@
 
 * Lektionsbeskrivelser
 ** Uge 39
+*** [2022-09-29 tor]                   :if_statements:rutediagram:plantuml:
+I dag skal vi arbejde med betinget udførelse i programmering. Det går også under navnet if statements.
+
+I kan finde præsentationen her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/06_Betinget_udfoerelse/06_Betinget_udfoerelse.org][06_Betinget_udfoerelse.org]].
+
 *** [2022-09-26 man]                                    :arcade:funktioner:
 Vi fortsætter vores arbejde med at omdanne gamle programmer til at tegne billeder vha funktioner.
 *Alle* skal pushe deres arbejde til deres gitrepo, inden lektionen er slut.
@@ -19,7 +24,7 @@ Nogle enkelte af jer har endnu ikke accepteret opgaven i github classroom. Find 
 I ugens lektioner skal der arbejdes med at refaktorisere den gamle kode til at tegne billeder vha ~arcade~ til at anvende funktioner.
 Selve opgaven kan findes på github classroom [[https://classroom.github.com/a/uem17Egi]].
 ** Uge 37
-*** [2022-09-15 tor]                                     :arcade:funktioner:
+*** [2022-09-15 tor]                                    :arcade:funktioner:
 I dag har vi arbejdet videre med præsentationen [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/04_Funktioner/04_Funktioner.org][04_Funktioner.org]] samt set en meget kort gennemgang af præsentationen [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/05_Tegn_med_funktioner/05_Tegn_med_funktioner.org][05_Tegn_med_funktioner.org]].
 *** [2022-09-12 man]                                    :arcade:funktioner:
 I dagens ene lektion skal vi se på, hvordan man *selv* kan konstruere funktioner.
