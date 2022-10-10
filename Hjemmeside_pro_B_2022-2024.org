@@ -8,6 +8,14 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 41
+*** [2022-10-10 man]                                      :random:plantuml:
+Vi starter lektionen med lige at se et eksempel på en 2.gradsligningsløser. Derefter vil I blive introduceret til konceptet tilfældige tal (random numbers). Dette er der selvfølgelig en præsentation til.
+
+Find præsentationen her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/07_tilfaeldige_tal/07_tilfaeldige_tal.org][07_Tilfaeldige_tal.org]]
+** Uge 40                                              :if_statements:input:
+*** [2022-10-03 man]
+I denne uge er der kun en lektion med programmering. I [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/06_Betinget_udfoerelse/06_Betinget_udfoerelse.org][præsentationen om betinget udførelse]] er der en opgave, som går ud på at programmere en 2.gradsligningsløser vha af input fra brugeren og anvendelse af if-statements. Den opgave skal I arbejde med i dag.
 ** Uge 39
 *** [2022-09-29 tor]                   :if_statements:rutediagram:plantuml:
 I dag skal vi arbejde med betinget udførelse i programmering. Det går også under navnet if statements.
