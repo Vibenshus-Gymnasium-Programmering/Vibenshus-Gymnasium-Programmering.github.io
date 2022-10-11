@@ -9,6 +9,10 @@
 
 * Lektionsbeskrivelser
 ** Uge 41
+*** [2022-10-13 tor]                          :løkker:random:if_statements:
+I dag bliver I nødt til at få analyseret kode i gæt et tal, og så udarbejdet et tilsvarende rutediagram i ~plantuml~.
+
+Efterfølgende skal I arbejde med den næste aflevering, som hedder "Flugten på Dune". Find afleveringen på github classroom: [[https://classroom.github.com/a/ol5aRD7M]]
 *** [2022-10-10 man]                                      :random:plantuml:
 Vi starter lektionen med lige at se et eksempel på en 2.gradsligningsløser. Derefter vil I blive introduceret til konceptet tilfældige tal (random numbers). Dette er der selvfølgelig en præsentation til.
 
@@ -170,7 +174,7 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 * Opgaver
 ** Arcade
 *** Opgave 04 Flugten på Dune
-Her er linket til jeres første spilopgave. Spillet skal være rent tekstbaseret og benytter sig af betinget udførelse (if statements) og tilfældige tal (random numbers)
+Her er linket til jeres første spilopgave. Spillet skal være rent tekstbaseret og benytter sig af betinget udførelse (if statements) og tilfældige tal (random numbers).
 
 [[https://classroom.github.com/a/ol5aRD7M]]
 
