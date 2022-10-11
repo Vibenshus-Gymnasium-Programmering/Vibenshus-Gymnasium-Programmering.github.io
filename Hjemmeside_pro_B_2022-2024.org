@@ -173,6 +173,10 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 
 * Opgaver
 ** Arcade
+*** Opgave 05 Tegn med løkker
+Her er linket til jeres opgave omkring anvendelse af for-løkker.
+
+[[https://classroom.github.com/a/ToTBNP1k]]
 *** Opgave 04 Flugten på Dune
 Her er linket til jeres første spilopgave. Spillet skal være rent tekstbaseret og benytter sig af betinget udførelse (if statements) og tilfældige tal (random numbers).
 
