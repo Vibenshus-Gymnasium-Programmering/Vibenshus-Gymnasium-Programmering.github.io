@@ -8,6 +8,9 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 43
+*** [2022-10-24 man]
+I dag arbejder vi/I videre med jeres spil med afsæt i opgaven "Flugten på Dune".
 ** Uge 41
 *** [2022-10-13 tor]                          :løkker:random:if_statements:
 I dag bliver I nødt til at få analyseret kode i gæt et tal, og så udarbejdet et tilsvarende rutediagram i ~plantuml~.
