@@ -10,7 +10,7 @@
 * Lektionsbeskrivelser
 ** Uge 45
 *** [2022-11-07 man]                                              :løkker:
-I dag står den på introduktion til løkke, for og while.
+I dag står den på introduktion til løkker, for og while.
 
 I kan finde præsentationen her:
 [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/08_loekker/08_loekker.org][08_loekker.org]]
