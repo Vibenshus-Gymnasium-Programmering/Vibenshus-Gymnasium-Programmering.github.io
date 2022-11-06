@@ -8,6 +8,13 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 45
+*** [2022-11-07 man]                                              :løkker:
+I dag står den på introduktion til løkke, for og while.
+
+I kan finde præsentationen her:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/08_loekker/08_loekker.org][08_loekker.org]]
+
 ** Uge 43
 *** [2022-10-24 man]
 I dag arbejder vi/I videre med jeres spil med afsæt i opgaven "Flugten på Dune".
