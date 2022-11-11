@@ -9,6 +9,13 @@
 
 * Lektionsbeskrivelser
 ** Uge 45
+*** [2022-11-11 fre]                                               :løkker:
+- I dag skal vi blive færdige med introduktionen til while-løkker.
+- Efterfølgende er der to forståelsesopgaver.
+- Hovedparten af dagens undervisning kommer til at foregå ved, at I skal skrive programmer, som kan konvertere fra almindelige tal i basis ti, til binære tal, og tilbage igen.
+  Derfor vil I få en introduktion til binære tal først. Der står mere om det i præsentationen om løkker.
+*** [2022-11-09 ons]                                               :løkker:
+Vi arbejdede med forståelsesopgaver og lidt med while-løkker.
 *** [2022-11-07 man]                                              :løkker:
 I dag står den på introduktion til løkker, for og while.
 
