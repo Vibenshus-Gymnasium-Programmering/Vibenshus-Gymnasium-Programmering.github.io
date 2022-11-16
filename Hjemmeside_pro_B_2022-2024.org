@@ -173,6 +173,10 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 *Post Scriptum*
 Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
+** SRC - Vektorfunktioner i matematik og programmering
+Her er et link til præsentationen omkring vektorfunktioner og hvordan man kan animere dem i python ved hjælp af biblioteket =arcade=, som I kender allerede.
+
+[[https://vibenshus-gymnasium-programmering.github.io/SRC_vektorfunktioner_i_matematik_og_programmering/]]
 ** Arcade
 
 Her er et link til alle præsentationerne anvendt i forløbet omkring =arcade=​-bibliotektet.
