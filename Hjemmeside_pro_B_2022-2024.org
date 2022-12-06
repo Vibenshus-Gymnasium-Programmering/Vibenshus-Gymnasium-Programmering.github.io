@@ -8,12 +8,26 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** Uge 45
+** Uge 49                                                        :datatyper:
+*** [2022-12-07 ons]
+I dag skal vi se lidt nærmere på de datatyper, vi har anvendt indtil videre i programmering, og der ud over skal vi arbejde særligt med lister og strenge.
+
+I kan finde den tilhørende præsentation her:
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/09_Datatyper/09_Datatyper.org][09_Datatyper.org]]
+
+** Uge 47 + 48                                               :src:animation:vektorfunktioner:
+- I den første uge blev der undervist i animation af vektorfunktioner vha arcade-bibliotektet.
+- I den anden uge var der skrivedage ifm SRC'en.
+** Uge 46
+*** [2022-11-18 fre]                                               :løkker:
+- Arbejde med afleveringsopgaven om løkker på github classroom.
 *** [2022-11-16 ons]                                               :løkker:
 Vi skal lige have færdiggjort den sidste opgave omkring konvertering fra binære tal til titalsystemet.
 
 Efterfølgende er der en afleveringsopgave på github classroom omkring løkker.
 Den kan I finde her: [[https://classroom.github.com/a/ToTBNP1k]]
+** Uge 45
 *** [2022-11-11 fre]                                               :løkker:
 - I dag skal vi blive færdige med introduktionen til while-løkker.
 - Efterfølgende er der to forståelsesopgaver.
