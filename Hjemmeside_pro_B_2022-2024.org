@@ -8,8 +8,20 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** Uge 49                                                        :datatyper:
-*** [2022-12-07 ons]
+** Uge 50
+*** [2022-12-16 fre]                                                  :OOP:
+I dag står den på introduktion til ObjektOrienteret Programmering (OOP). I har allerede arbejdet lidt med det i SRC'en, men går vi lidt mere i dybden i selve progarmmeringsundervisningen. Præsentationen er stadig WIP (Work In Progress), men I kan finde den her:
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/10_OOP/10_OOP.org][10_OOP.org]]
+
+*** [2022-12-14 ons]                                            :datatyper:
+En lektion med datatyper. Vi arbejdede med Cæsarkryptering ved hjælp af UTF-8-tabellen.
+** Uge 49           
+*** [2022-12-09 fre]                                            :datatyper:
+I dag stod den på mere leg med datatyper, med særligt fokus på strenge og hvordan man i nogle tilfælde kan betragte strenge som lister af karakterer.
+Endelig blev I introduceret til /røversprog/ og vi udviklede en røversprogsgenerator.
+
+*** [2022-12-07 ons]                                            :datatyper:
 I dag skal vi se lidt nærmere på de datatyper, vi har anvendt indtil videre i programmering, og der ud over skal vi arbejde særligt med lister og strenge.
 
 I kan finde den tilhørende præsentation her:
