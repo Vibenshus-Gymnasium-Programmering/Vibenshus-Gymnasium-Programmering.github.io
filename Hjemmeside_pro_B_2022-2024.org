@@ -8,6 +8,15 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 1
+*** [2023-01-06 fre]                                                  :OOP:
+Videre arbejde med PONG-spil.
+
+*** [2023-01-04 ons]                                                  :OOP:
+Opstart på udvikling af prototype til et PONG-spil. Se
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/10_OOP/10_OOP.org][10_OOP.org]]
+
 ** Uge 50
 *** [2022-12-16 fre]                                                  :OOP:
 I dag står den på introduktion til ObjektOrienteret Programmering (OOP). I har allerede arbejdet lidt med det i SRC'en, men går vi lidt mere i dybden i selve progarmmeringsundervisningen. Præsentationen er stadig WIP (Work In Progress), men I kan finde den her:
