@@ -8,6 +8,15 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 4                                 :OOP:Arkanoid:selvstændigt_arbejde:
+I denne uges tre lektioner (onsdag morgen og fredag eftermiddag) skal I arbejde med den sidste nye programmeringsopgave til jer. I skal udvikle jeres egne versioner af arkanoidkloner. Jeg har udviklet en skabelon, som I skal tage udgangspunkt i. Find jeres opgaver i det tilhørende git-repo: [[https://classroom.github.com/a/tglECt4n]].
+
+Onsdag er jeg ude som SOP-censor hele dagen, mens jeg skal på hospitalet med min datter fredag. Derfor skal I selv starte op på arbejdet med opgaven. Alt, hvad I har brug, står i opgavens readme-fil. God arbejdslyst!
+
+** Uge 3
+- Ingen undervisning, da jeg har været på Erasmusplus-tur til Holland hele ugen.
+** Uge 2                                                               :OOP:
+- Lidt mere arbejde med PONG og forståelse af klasser.
 ** Uge 1
 *** [2023-01-06 fre]                                                  :OOP:
 Videre arbejde med PONG-spil.
@@ -234,6 +243,11 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 
 * Opgaver
 ** Arcade
+*** Opgave 06 Arkanoid
+Her er linket til jeres opgave omkring udviklingen af en Arkanoid-klon.
+
+[[https://classroom.github.com/a/tglECt4n]]
+
 *** Opgave 05 Tegn med løkker
 Her er linket til jeres opgave omkring anvendelse af for-løkker.
 
