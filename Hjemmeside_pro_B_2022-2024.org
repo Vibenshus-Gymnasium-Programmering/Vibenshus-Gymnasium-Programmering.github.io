@@ -13,6 +13,8 @@ I denne uges tre lektioner (onsdag morgen og fredag eftermiddag) skal I arbejde 
 
 Onsdag er jeg ude som SOP-censor hele dagen, mens jeg skal på hospitalet med min datter fredag. Derfor skal I selv starte op på arbejdet med opgaven. Alt, hvad I har brug, står i opgavens readme-fil. God arbejdslyst!
 
+*UPDATE*: Jeg kan se, at det langt fra er alle, som har klonet deres git-repo. Derfor bliver der fredag ført fravær på baggrund af jeres git-historik. *I skal derfor sørge for at pushe jeres arbejde med opgaven tilbage til jeres git-repo, når I er færdige med dagens arbejde.* Jeg kan se både, hvilken kode I har skrevet, og hvornår I pusher koden til jeres git-repos.
+
 ** Uge 3
 - Ingen undervisning, da jeg har været på Erasmusplus-tur til Holland hele ugen.
 ** Uge 2                                                               :OOP:
