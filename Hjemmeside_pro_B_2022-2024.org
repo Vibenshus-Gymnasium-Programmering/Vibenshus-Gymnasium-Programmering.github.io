@@ -8,6 +8,13 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 11                                                      :GUI:PySide6:
+Efter mange måneders introduktion til programmering vha =arcade=-biblioteket bevæger vi os over i udvikling af grafiske brugerflader (GUIs, på engelsk Graphical User Interfaces). Vi kommer til at anvende biblioteket =PySide6=, som er python /bindings/ til =C++=-biblioteket =Qt6=. =Qt= udtales for øvrigt /cute/.
+
+Se præsentationerne her: MANGLER
+Mens diverse opgaver kan findes på github classroom.
+** Uge 5,6,8 og 9                        :OOP:Arkanoid:selvstændigt_arbejde:
+I disse fire uger er der blevet arbejdet selvstændigt med arkanoidopgaven.
 ** Uge 4                                 :OOP:Arkanoid:selvstændigt_arbejde:
 I denne uges tre lektioner (onsdag morgen og fredag eftermiddag) skal I arbejde med den sidste nye programmeringsopgave til jer. I skal udvikle jeres egne versioner af arkanoidkloner. Jeg har udviklet en skabelon, som I skal tage udgangspunkt i. Find jeres opgaver i det tilhørende git-repo: [[https://classroom.github.com/a/tglECt4n]].
 
