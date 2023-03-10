@@ -11,8 +11,9 @@
 ** Uge 11                                                      :GUI:PySide6:
 Efter mange måneders introduktion til programmering vha =arcade=-biblioteket bevæger vi os over i udvikling af grafiske brugerflader (GUIs, på engelsk Graphical User Interfaces). Vi kommer til at anvende biblioteket =PySide6=, som er python /bindings/ til =C++=-biblioteket =Qt6=. =Qt= udtales for øvrigt /cute/.
 
-Se præsentationerne her: MANGLER
-Mens diverse opgaver kan findes på github classroom.
+Se præsentationerne her: [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
+
+Mens diverse opgaver kan findes på github classroom: [[https://classroom.github.com/classrooms/108457464-vibenshus-gymnasium-programmering-b-2022-2024]]
 ** Uge 5,6,8 og 9                        :OOP:Arkanoid:selvstændigt_arbejde:
 I disse fire uger er der blevet arbejdet selvstændigt med arkanoidopgaven.
 ** Uge 4                                 :OOP:Arkanoid:selvstændigt_arbejde:
@@ -226,6 +227,11 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 *Post Scriptum*
 Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
+** GUIs - Pyside6
+Her er et link til præsentationerne omkring udvikling af grafiske brugerflader vha =PySide6=.
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
+
 ** SRC - Vektorfunktioner i matematik og programmering
 Her er et link til præsentationen omkring vektorfunktioner og hvordan man kan animere dem i python ved hjælp af biblioteket =arcade=, som I kender allerede.
 
