@@ -257,6 +257,12 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 
 * Opgaver
+** PySide6
+*** Opgave 01 Grafisk andengradsligningsløser
+Her er linket til jeres opgave med at udvikle en grafisk brugerflade til en andengradsligningsløser.
+
+[[https://classroom.github.com/a/R8wEwYRL]]
+
 ** Arcade
 *** Opgave 06 Arkanoid
 Her er linket til jeres opgave omkring udviklingen af en Arkanoid-klon.
