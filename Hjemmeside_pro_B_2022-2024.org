@@ -253,7 +253,7 @@ I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som
 *** [2022-08-18 tor]                                                  :git:
 Jeg kan se, at stort set alle har fået committet en ændring i deres logbog, og pushet den til github. Godt arbejde!
 
-I dag skal vi se nærmere på, hvad git ellers kan. Til formålet anvender vi [[https://learngitbranching.js.org/]]
+I dag skal vi se nærmere på, hvad git ellers kan. Til formålet anvender vi [[https://learngitbranching.js.org/]].
 
 Når I rigtig skal bruge git til jeres udvikling af programmer. Foreslår jeg, at I anvender [[https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow][Git Feature Branch workflow]], når I arbejder alene, og [[https://docs.github.com/en/get-started/quickstart/github-flow][github flow]] når I skal til at arbejde sammen i grupper. Begge workflows går ud på at skabe nye grene (branches), og så udvikle nye features i dem. Når en feature er færdig, checker man main-grenen ud og merger med featurebranchen. Alternativt kan man, mens man står i sin featurebranch *rebase* med main, når featuren er færdig. *Dette øver vi os på med logbogen.*
 
@@ -332,54 +332,106 @@ Her er linket til opgaven om at udvikle en grafisk brugerflade til en *røverspr
 
 [[https://classroom.github.com/a/JZaGWWDx]]
 
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/roeversprogsoversaetter.git]]
 *** Opgave 01 Grafisk andengradsligningsløser
 Her er linket til jeres opgave med at udvikle en grafisk brugerflade til en andengradsligningsløser.
 
 [[https://classroom.github.com/a/R8wEwYRL]]
 
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_andengradsligningsloeser.git]]
 ** Arcade
 *** Opgave 06 Arkanoid
 Her er linket til jeres opgave omkring udviklingen af en Arkanoid-klon.
 
 [[https://classroom.github.com/a/tglECt4n]]
 
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Opgave_06_Arkanoid.git]]
 *** Opgave 05 Tegn med løkker
 Her er linket til jeres opgave omkring anvendelse af for-løkker.
 
 [[https://classroom.github.com/a/ToTBNP1k]]
+
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_5_Tegn_med_loekker.git]]
 *** Opgave 04 Flugten på Dune
 Her er linket til jeres første spilopgave. Spillet skal være rent tekstbaseret og benytter sig af betinget udførelse (if statements) og tilfældige tal (random numbers).
 
 [[https://classroom.github.com/a/ol5aRD7M]]
 
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_04_Flugten_paa_Dune.git]]
 *** Opgave 03 Tegn med funktioner
 Her er linket til jeres tredje opgave. I denne opgave skal I omskrive jeres tidligere opgave, så I anvender variable og funktioner til at tegne jeres billeder.
 
 [[https://classroom.github.com/a/uem17Egi]]
 
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade-Opgave-03-Tegn-med-funktioner.git]]
 *** Opgave 02 Tegn et billede
 Her er linket til jeres anden opgave. I denne opgave skal I anvende biblioteket =arcade= til at tegne billeder vha geometriske figurer. Det er en øvelse i at kalde funktioner i python.
 
 [[https://classroom.github.com/a/-LD3l093]]
 
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_02_Tegn_et_billede.git]]
 *** Opgave 01 Printfunktionen
 Her er linket til jeres første opgave, som har noget med pythonkode at gøre.
 
 [[https://classroom.github.com/a/_g8EyUgY]]
 
 Sørg for at klone jeres tildelte repo ned på jeres lokale maskine.
+
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_01_Foerste_program.git]]
 ** Logbog
 Opret jeres logbog ved at følge linket her: [[https://classroom.github.com/a/slPR9059]]
 
 Sørg for at føre logbog hver uge. Der bliver holdt øje med jer. :)
 
 * UVB
-** Git
+** Python og pycharm
+I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~ er blevet introduceret som IDE. Det har været frit for eleverne at vælge en anden editor, hvis de har ønsket det. Underviseren har selv anvendt ~emacs~.
+
+** Git 
+- Installation af git 
+- Introduktion til brug af git i ~bash~ (kommandolinjen) på lokal maskine.
+- Introduktion til github og github classroom.
+- Introduktion til [[https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow][Git Feature Branch workflow]], når man arbejder selvstændigt.
+- Introduktion til [[https://docs.github.com/en/get-started/quickstart/github-flow][github flow]], når man arbejder sammen med andre.
+- Der er blevet leget med de tutorials, som ligger på [[https://learngitbranching.js.org/]].
+- Eleverne er blevet opfordret til at føre deres *logbog* i et git-repo på github classroom, hvor man f.eks. kan skrive sin tekst i enten ~markdown~- eller ~org mode~-syntaks.
+  
 ** Grundlæggende programmering med ~python arcade~
+Til introduktion til de basale elementer i programmering er bibliotektet ~arcade~ ([[https://api.arcade.academy/en/latest/]]) anvendt. ~arcade~ er blevet installeret gennem anvendelse af virtuelle miljøer og ~pip~.
+
+Ved basale elementer menes der:
+- variable
+- (simple) datatyper
+- funktioner
+- Betinget udførsel (if-statements)
+- Løkker
+
+Yderligere er OOP også introduceret vha ~arcade~-biblioteket.
+
+Meget af undervisningen er blevet inspireret af indholdet i *onlinebogen* [[https://learn.arcade.academy/en/latest/][Arcade Academy - Learn Python]]. Kapitlerne/undersiderne kan dog godt ændre sig med tiden, så derfor er der udviklet/oversat undervisningspræsentationer på dansk med tilsvarende indhold. Disse præsentationer kan findes her på siden under fanen Præsentationer og afsnittet Arcade. Præsentationerne er skrevet i ~orgmode~ med indlejret ~python~-kode, og er lagt op på github. Med den rette opsætning af emacs kan pythonkoden i præsentationerne køres interaktivt i emacs, mens eleverne kan følge med i præsentationen på github og selv nemt kan kopiere kodestumperne ind i deres IDE.
+
+Præsentationerne har været opbygget med en del småopgaver, som nemt kunne kopieres ind i pycharm eller lignende og løses simpelt. Derudover har der dog også været en række "større" opgaver, som eleverne har tilgået gennem ~github classroom~. Hver elev har derfor fået sit eget gitrepo til hver af disse opgaver, som kun de og underviseren har adgang til. Eleverne har så "afleveret" dagens arbejde med at ~pushe~ deres sidste ændringer. På den måde har det været muligt løbende at holde øje progressionen. Selve opgaverne kan også findes her på siden under fanen Opgaver og afsnittet Arcade.
+
 ** Udvikling af GUIs med ~pyside6~
+Til udvikling af grafiske brugerflader er der blevet anvendt biblioteket ~Qt for python~, som i folkemunde blot hedder ~pyside6~ i nuværende version. 
+
+Man kan både udvikle de grafiske brugerflader "i hånden" (skrive koden direkte) eller man kan designe brugerflader i programmet ~Designer~. Begge dele er blevet introduceret.
+
+Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestoffet:
+- arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer.
+
+Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
 ** Kryptografi
 ** Robotstyring - Lego Mindstorms
-** Machine Learning
+** Machine Learnin
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
 
