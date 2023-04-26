@@ -8,10 +8,15 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 17                                                      :GUI:PySide6:
+Tænk at vi sidst så hinanden i uge 12. Det er ikke sådan, når der kommer Eramus+-projekter, påskeferie, covid og værkstedsuger i vejen for undervisningen.
+Vi må hellere forsøge at komme tilbage på sporet igen.
+
+Jeg er spændt på at se, hvor langt I er kommet med røversprogsoversætteren, hvis I overhovedet er kommet i gang. Det er i hvert fald det projekt, vi arbejder med i denne uges ene lektion.
 ** Uge 13                                                      :GUI:PySide6:
 I denne uge er jeg fuldt booket med undervisning ifm Erasmus+-projektet Qute, hvor vi har gæster fra Holland og Østrig. Derfor skal I arbejde selvstændigt med at udvikle en grafisk *røversprogsoversætter*. I kan finde opgaven her: [[https://classroom.github.com/a/JZaGWWDx]]
 
-Husk at jeg kan følge med I, om I for det første acceptere opgaven og hvordan jeres commits ser ud. Der bliver holdt øje med jer. :)
+Husk at jeg kan følge med i, om I for det første acceptere opgaven og hvordan jeres commits ser ud. Der bliver holdt øje med jer. :)
 ** Uge 12                                                      :GUI:PySide6:
 :PROPERTIES:
 :VISIBILITY: folded
@@ -431,7 +436,7 @@ Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestof
 Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
 ** Kryptografi
 ** Robotstyring - Lego Mindstorms
-** Machine Learnin
+** Machine Learning
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
 
