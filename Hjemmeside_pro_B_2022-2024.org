@@ -8,6 +8,14 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 23                                                     :Prøveeksamen:
+Vi afholder prøveeksaminerne tirsdag og onsdag. Hold øje med skolen IT-platform (lectio).
+** Uge 21                                                     :Prøveeksamen:
+Vi afholder spørgetime til den kommende *mundtlige* årsprøve i programmering B *torsdag d. 25. maj kl 09:00 til 10:30*.
+
+Her vil jeg fortælle nærmere om selve prøven. Der er 30 minutters forberedelse og 15 minutters eksamination. Spørgsmålene er *ukendte*, men til gengæld må I anvende alle hjælpemidler *inklusiv internet*.
+** Uge 18 + 19                                                 :GUI:PySide6:
+Vi arbejder videre med udvikling af grafiske brugerflader til vores røverssprogsoversætter.
 ** Uge 17                                                      :GUI:PySide6:
 Tænk at vi sidst så hinanden i uge 12. Det er ikke sådan, når der kommer Eramus+-projekter, påskeferie, covid og værkstedsuger i vejen for undervisningen.
 Vi må hellere forsøge at komme tilbage på sporet igen.
