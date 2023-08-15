@@ -9,7 +9,36 @@
 
 * Lektionsbeskrivelser
 ** Uge 33
-*** <2023-08-14 man>                                          :GUI:PySide6:
+*** [2023-08-16 ons]                                          :GUI:PySide6:
+Her er en guide til dem af jer, som slet ikke er startet på projektet (eller bare vil starte forfra) om den grafiske røversprogsoversætter.
+
+1. Følg dette link til opgaven, som ligger på githus classroom: [[https://classroom.github.com/a/JZaGWWDx]]
+2. Accepter opgaven og gå til jeres nye repository (hvis I ikke allerede har det).
+3. På jeres git repository skal I nu trykke på den grønne knap =Code= oppe til højre og *kopiere* det lange link.
+4. Find nu jeres stifinder (der hvor I kan åbne mapper og trykke på filer for at åbne dem) og navigér hen til en mappe, *hvor I gerne vil have jeres git repository klonet hen til*. Det vil typisk være i en mappe med skoleting og programmering.
+5. Højreklik nu et sted i selve mappen (altså ikke på en fil i mappen) og vælg =git bash here= (eller noget der ligner). En bash-terminal skulle gerne åbne op, hvor I er placeret i den rette mappe.
+6. I *git bash-terminalen* skal I nu skrive =git clone https://url.til.gitrepo=. (URL'en skal I selvfølgelig erstatte med den eksakte sti til jeres git repository). Man kan kopiere ind i git bash ved at højreklikke og vælge =paste=.
+7. Nu skal I åbne *Pycharm*. Når programmet er oppe at køre, skal I lukke jeres nuværende projekt (File -> Close Project). Pycharm lukker nærmet helt ned og tilbage er blot et nyt lille vindue.
+8. I det nye lille vindue trykker I på *New Project*.
+   - Under *Location* skal I vælge den mappe, hvor I klonede jeres git repository tidligere. I kan finde mappen ved at trykke på mappeikonet i højre side.
+   - *Python Interpreter* skal I vælge *New environment using* og så vælge *Virtuelenv*.
+   - *Location* (for interpreteren) skal gerne være en mappe som hedder =venv= i samme mappe som projektet.
+   - *Base interpreter* er nok valgt til at være den pythoninstallation, I installerede til at starte med.
+   - *Slå fluebenet fra for "Create a main.py welcome script"*
+   - Tryk til sidst på *Create* nede til højre.
+9. Når pycharm spørger om, I vil benytte de allerede eksisterende filer i projektet, som skal I bare sige ja til dette.
+10. Endelig er jeres opgave (næsten) klar til brug. I mangler blot at installere =pyside6= i jeres virtuelle miljø. Dette gøres på følgende måde:
+    - Tryk på =File -> Settings=.
+    - Tryk på =Project: Projektnavn= ude til venstre.
+    - Tryk på =Python Interpreter=.
+    - Tryk nu på plusikonet, og søg efter =pyside6=.
+    - Installer =pyside6= ved at trykke på =Install Package= nederst til venstre, når I har markeret =pyside6= i listen.
+11. Tjek nu endelig at I har adgang til at bruge QtDesigner. Dette gør I ved at:
+    - trykke på fanen =Terminal= allernederst i Pycharm
+    - og så skrive =pyside6-designer.exe= i terminalen og så trykke enter.
+    
+      Alternativt kan I skrive =start /B pyside6-designer.exe=, men jeg sidder ikke lige foran en windowscomputer, så kan ikke lige teste det.
+*** [2023-08-14 man]                                          :GUI:PySide6:
 Velkommen tilbage fra en velfortjent sommeferie.
 Nu er I nået i 3.g, og I mangler kun lige det sidste år, for at blive studenter.
 Inden da skal vi dog lige have styr på en helt masse programmering. :)
