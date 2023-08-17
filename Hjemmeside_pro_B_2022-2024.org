@@ -9,6 +9,12 @@
 
 * Lektionsbeskrivelser
 ** Uge 33
+*** [2023-08-17 tor]                                          :GUI:PySide6:
+Vi arbejder videre med røversprogsoversætteren. Nedenfor kan I se, hvad vi skrev på tavlen sidst. Husk de tre tests under jeres udvikling.
+
+#+attr_html: :width 600px
+[[./img/roeversprog_fra_tavlen.jpg]]
+
 *** [2023-08-16 ons]                                          :GUI:PySide6:
 Her er en guide til dem af jer, som slet ikke er startet på projektet (eller bare vil starte forfra) om den grafiske røversprogsoversætter.
 
