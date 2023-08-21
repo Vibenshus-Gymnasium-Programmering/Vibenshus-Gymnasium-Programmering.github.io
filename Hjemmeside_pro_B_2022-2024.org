@@ -8,12 +8,23 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 34
+*** [2023-08-21 man]                                          :GUI:PySide6:
+Jeg hjælper dem, som endnu ikke har en fungerende røversprogsoversætter (bare fra dansk til røversprog).
+
+Alle skal sørge for at pushe deres seneste udgaver af røversprogsoversætteren til github i løbet af i dag.
+
+I andre, I skal gå i gang med at udvikle et kryds og bolle-spil. Se opgaven her:
+
+[[https://classroom.github.com/a/-ALtxQRV]]
+
 ** Uge 33
 *** [2023-08-17 tor]                                          :GUI:PySide6:
 Vi arbejder videre med røversprogsoversætteren. Nedenfor kan I se, hvad vi skrev på tavlen sidst. Husk de tre tests under jeres udvikling.
 
 #+attr_html: :width 600px
 [[./img/roeversprog_fra_tavlen.jpg][file:./img/roeversprog_fra_tavlen.jpg]]
+
 *** [2023-08-16 ons]                                          :GUI:PySide6:
 Her er en guide til dem af jer, som slet ikke er startet på projektet (eller bare vil starte forfra) om den grafiske røversprogsoversætter.
 
@@ -386,6 +397,15 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 
 * Opgaver
 ** PySide6
+*** Opgave 03 Kryds og bolle
+Her er linket til opgaven om at udvikle kryds og bolle vha =PySide6=.
+I denne omgang der er ingen skabeloner, så I skal selv anvende tidligere viden til at opbygge jeres projekt.
+
+[[https://classroom.github.com/a/-ALtxQRV]]
+
+Skabelon til censor:
+[[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_Kryds_og_bolle]]
+
 *** Opgave 02 Røversprogsoversætter
 Her er linket til opgaven om at udvikle en grafisk brugerflade til en *røversprogsoversætter*.
 
@@ -393,6 +413,7 @@ Her er linket til opgaven om at udvikle en grafisk brugerflade til en *røverspr
 
 Skabelon til censor:
 [[https://github.com/Vibenshus-Gymnasium-Programmering/roeversprogsoversaetter.git]]
+
 *** Opgave 01 Grafisk andengradsligningsløser
 Her er linket til jeres opgave med at udvikle en grafisk brugerflade til en andengradsligningsløser.
 
