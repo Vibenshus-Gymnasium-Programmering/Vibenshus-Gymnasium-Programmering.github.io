@@ -9,6 +9,23 @@
 
 * Lektionsbeskrivelser
 ** Uge 34
+*** [2023-08-23 ons]                                          :GUI:PySide6:
+I dag ser vi nærmere på udviklingen af et kryds og bolle-spil. Vi skal se på opbygning af projektet vha. *M*​odel *V*​iew *C*​ontroller.
+
+Her er et billede, som kort viser princippet.
+
+#+attr_html: :width 500px
+[[./img/ModelViewController.png]]
+
+Ellers kan/skal I læse mere om princippet [[https://openclassrooms.com/en/courses/6900866-write-maintainable-python-code/7009312-structure-an-application-with-the-mvc-design-pattern][her]].
+
+Vi skal diskutere, hvilket indhold, der skal være i hhv model, view og controller.
+
+- Hvad skal skal modellen indeholde?
+- Hvad skal skal viewet indeholde (og hvilken fil er der tale om)?
+- Hvad skal skal controlleren indeholde?
+
+
 *** [2023-08-21 man]                                          :GUI:PySide6:
 Jeg hjælper dem, som endnu ikke har en fungerende røversprogsoversætter (bare fra dansk til røversprog).
 
