@@ -9,6 +9,13 @@
 
 * Lektionsbeskrivelser
 ** Uge 34
+*** [2023-08-24 tor]                                          :GUI:PySide6:
+Vi arbejder videre med kryds og bolle i dag.
+
+Her er et billede af tavlen fra sidst.
+
+#+attr_html: :width 500px
+[[./img/tavle_kryds_og_bolle.jpg][file:img/tavle_kryds_og_bolle.jpg]]
 *** [2023-08-23 ons]                                          :GUI:PySide6:
 I dag ser vi nærmere på udviklingen af et kryds og bolle-spil. Vi skal se på opbygning af projektet vha. *M*​odel *V*​iew *C*​ontroller.
 
