@@ -8,6 +8,11 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 35
+*** [2023-08-28 man]
+Jeg er desværre syg i dag.
+
+Brug dagens ene lektion på at arbejde videre med kryds og bolle-spillet. Hvis man allerede har et perfekt fungerende grafisk interface til spillet, så udvikl en cli-version (command line interface), som kan køres i terminalen. cli-versionen skal gerne anvende samme model, som den grafiske version.
 ** Uge 34
 *** [2023-08-24 tor]                                          :GUI:PySide6:
 Vi arbejder videre med kryds og bolle i dag.
