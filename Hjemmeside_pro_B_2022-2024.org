@@ -8,6 +8,13 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Ugr 36
+*** [2023-09-04 man]                                          :GUI:PySide6:
+Dette bliver sidste dag med arbejde på kryds og bolle. I skal alle sørge for at uploade jeres programmer til github.
+
+Hvis man intet program har, kan I se mit bud på en prototype ved at klone projektet https://github.com/jacobdebel/kryds_og_bolle_pyside6_mvc.git.
+Herefter kan i gennemgå koden linje for linje, og så skrive kommentarer i filerne, hvor I beskriver, hvad koden gør.
+
 ** Uge 35
 *** [2023-08-28 man]
 Jeg er desværre syg i dag.
