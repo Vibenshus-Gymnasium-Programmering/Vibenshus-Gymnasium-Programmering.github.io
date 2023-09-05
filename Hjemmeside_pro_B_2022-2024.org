@@ -9,6 +9,9 @@
 
 * Lektionsbeskrivelser
 ** Ugr 36
+*** [2023-09-06 ons]                            :Databehandling:csv:pandas:
+Nu begynder vi på et nyt forløb, som omhandler databehandling. Vi skal se på, hvordan man kan indlæse data, og hvordan man kan plotte data.
+Der er en serie af præsentationer, som i kan finde her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]].
 *** [2023-09-04 man]                                          :GUI:PySide6:
 Dette bliver sidste dag med arbejde på kryds og bolle. I skal alle sørge for at uploade jeres programmer til github.
 
@@ -402,6 +405,11 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 *Post Scriptum*
 Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
+** Databehandling
+Her er et link til præsentationerne omkring brugen af =csv= og =pandas= til indlæsning af datafiler, samt plot af data med =matplotlib=.
+
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]]
+
 ** GUIs - Pyside6
 Her er et link til præsentationerne omkring udvikling af grafiske brugerflader vha =PySide6=.
 
@@ -545,9 +553,10 @@ Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestof
 - arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer.
 
 Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
-** Kryptografi
-** Robotstyring - Lego Mindstorms
-** Machine Learning
+** TODO Databehandling
+** TODO Matematisk værktøj - SymPy
+** TODO Kryptografi
+** TODO Robotstyring - Lego Mindstorms
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
 
