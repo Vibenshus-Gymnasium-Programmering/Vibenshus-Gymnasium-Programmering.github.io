@@ -8,7 +8,9 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
-** Ugr 36
+** Uge 36
+*** [2023-09-07 tor]                 :Databehandling:csv:pandas:matplotlib:
+Vi fortsætter vores arbejde med indlæsning af data fra csv-filer. Efterfølgende vil vi se på, hvordan man kan plotte data vha biblioteket =matplotlib=.
 *** [2023-09-06 ons]                            :Databehandling:csv:pandas:
 Nu begynder vi på et nyt forløb, som omhandler databehandling. Vi skal se på, hvordan man kan indlæse data, og hvordan man kan plotte data.
 Der er en serie af præsentationer, som i kan finde her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]].
