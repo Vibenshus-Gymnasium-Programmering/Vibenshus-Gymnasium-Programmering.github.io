@@ -8,6 +8,12 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 38
+*** [2023-09-18 man]                                                :sympy:
+I dag begynder vi på et nyt miniforløb omkring symbolsk behandling af matematiske størrelser vha =python=. Til formålet skal vi anvende biblioteket =sympy=, som er et *CAS*-bibliotek (*C*​omputer *A*​lgebra *S*​ystem) skrevet i python.
+
+Præsentationen kan findes her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer/blob/main/03_Sympy/Introduktion_til_sympy.org][Introduktion til sympy]].
+
 ** Uge 37
 *** [2023-09-13 ons]                            :Databehandling:matplotlib:
 I dag skal vi se nærmere på biblioteket =matplotlib=. Find præsentationen her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer/blob/main/02_Plot_af_data/02_Plot_af_data_matplotlib.org][Plot med matplotlib]].
@@ -32,14 +38,14 @@ Jeg er desværre syg i dag.
 
 Brug dagens ene lektion på at arbejde videre med kryds og bolle-spillet. Hvis man allerede har et perfekt fungerende grafisk interface til spillet, så udvikl en cli-version (command line interface), som kan køres i terminalen. cli-versionen skal gerne anvende samme model, som den grafiske version.
 ** Uge 34
-*** [2023-08-24 tor]                                           :GUI:PySide6:
+*** [2023-08-24 tor]                                          :GUI:PySide6:
 Vi arbejder videre med kryds og bolle i dag.
 
 Her er et billede af tavlen fra sidst.
 
 #+attr_html: :width 500px
 [[./img/tavle_kryds_og_bolle.jpg][file:img/tavle_kryds_og_bolle.jpg]]
-*** [2023-08-23 ons]                                           :GUI:PySide6:
+*** [2023-08-23 ons]                                          :GUI:PySide6:
 I dag ser vi nærmere på udviklingen af et kryds og bolle-spil. Vi skal se på opbygning af projektet vha. *M*​odel *V*​iew *C*​ontroller.
 
 Her er et billede, som kort viser princippet.
@@ -56,7 +62,7 @@ Vi skal diskutere, hvilket indhold, der skal være i hhv model, view og controll
 - Hvad skal skal controlleren indeholde?
 
 
-*** [2023-08-21 man]                                           :GUI:PySide6:
+*** [2023-08-21 man]                                          :GUI:PySide6:
 Jeg hjælper dem, som endnu ikke har en fungerende røversprogsoversætter (bare fra dansk til røversprog).
 
 Alle skal sørge for at pushe deres seneste udgaver af røversprogsoversætteren til github i løbet af i dag.
@@ -66,13 +72,13 @@ I andre, I skal gå i gang med at udvikle et kryds og bolle-spil. Se opgaven her
 [[https://classroom.github.com/a/-ALtxQRV]]
 
 ** Uge 33
-*** [2023-08-17 tor]                                           :GUI:PySide6:
+*** [2023-08-17 tor]                                          :GUI:PySide6:
 Vi arbejder videre med røversprogsoversætteren. Nedenfor kan I se, hvad vi skrev på tavlen sidst. Husk de tre tests under jeres udvikling.
 
 #+attr_html: :width 600px
 [[./img/roeversprog_fra_tavlen.jpg][file:./img/roeversprog_fra_tavlen.jpg]]
 
-*** [2023-08-16 ons]                                           :GUI:PySide6:
+*** [2023-08-16 ons]                                          :GUI:PySide6:
 Her er en guide til dem af jer, som slet ikke er startet på projektet (eller bare vil starte forfra) om den grafiske røversprogsoversætter.
 
 1. Følg dette link til opgaven, som ligger på githus classroom: [[https://classroom.github.com/a/JZaGWWDx]]
@@ -101,7 +107,7 @@ Her er en guide til dem af jer, som slet ikke er startet på projektet (eller ba
     - og så skrive =pyside6-designer.exe= i terminalen og så trykke enter.
     
       Alternativt kan I skrive =start /B pyside6-designer.exe=, men jeg sidder ikke lige foran en windowscomputer, så kan ikke lige teste det.
-*** [2023-08-14 man]                                           :GUI:PySide6:
+*** [2023-08-14 man]                                          :GUI:PySide6:
 Velkommen tilbage fra en velfortjent sommeferie.
 Nu er I nået i 3.g, og I mangler kun lige det sidste år, for at blive studenter.
 Inden da skal vi dog lige have styr på en helt masse programmering. :)
@@ -113,29 +119,29 @@ Planen er, at I og dem skal samarbejde en smule. Det kan jeg fortælle mere om.
 Ellers skal vi lige have styr på hængepartierne fra sidste år. Alle skal lige have udarbejdet et
 grafisk andengradsligningsløser, hvor designet er udført vha. =QtDesigner=. Find jeres tidligere arbejde frem fra gemmerne vha =git=.
 ** 2.g
-*** Uge 23                                                    :Prøveeksamen:
+*** Uge 23                                                   :Prøveeksamen:
 Vi afholder prøveeksaminerne tirsdag og onsdag. Hold øje med skolen IT-platform (lectio).
-*** Uge 21                                                    :Prøveeksamen:
+*** Uge 21                                                   :Prøveeksamen:
 Vi afholder spørgetime til den kommende *mundtlige* årsprøve i programmering B *torsdag d. 25. maj kl 09:00 til 10:30*.
 
 Her vil jeg fortælle nærmere om selve prøven. Der er 30 minutters forberedelse og 15 minutters eksamination. Spørgsmålene er *ukendte*, men til gengæld må I anvende alle hjælpemidler *inklusiv internet*.
-*** Uge 18 + 19                                                :GUI:PySide6:
+*** Uge 18 + 19                                               :GUI:PySide6:
 Vi arbejder videre med udvikling af grafiske brugerflader til vores røverssprogsoversætter.
-*** Uge 17                                                     :GUI:PySide6:
+*** Uge 17                                                    :GUI:PySide6:
 Tænk at vi sidst så hinanden i uge 12. Det er ikke sådan, når der kommer Eramus+-projekter, påskeferie, covid og værkstedsuger i vejen for undervisningen.
 Vi må hellere forsøge at komme tilbage på sporet igen.
 
 Jeg er spændt på at se, hvor langt I er kommet med røversprogsoversætteren, hvis I overhovedet er kommet i gang. Det er i hvert fald det projekt, vi arbejder med i denne uges ene lektion.
-*** Uge 13                                                     :GUI:PySide6:
+*** Uge 13                                                    :GUI:PySide6:
 I denne uge er jeg fuldt booket med undervisning ifm Erasmus+-projektet Qute, hvor vi har gæster fra Holland og Østrig. Derfor skal I arbejde selvstændigt med at udvikle en grafisk *røversprogsoversætter*. I kan finde opgaven her: [[https://classroom.github.com/a/JZaGWWDx]]
 
 Husk at jeg kan følge med i, om I for det første acceptere opgaven og hvordan jeres commits ser ud. Der bliver holdt øje med jer. :)
-*** Uge 12                                                     :GUI:PySide6:
+*** Uge 12                                                    :GUI:PySide6:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
 I denne uge blev der arbejdet med at udvikle en grafisk andengradsligningsløser. Opgaven ses her: [[https://classroom.github.com/a/R8wEwYRL]]
-*** Uge 11                                                     :GUI:PySide6:
+*** Uge 11                                                    :GUI:PySide6:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
@@ -144,12 +150,12 @@ Efter mange måneders introduktion til programmering vha =arcade=-biblioteket be
 Se præsentationerne her: [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
 
 Mens diverse opgaver kan findes på github classroom: [[https://classroom.github.com/classrooms/108457464-vibenshus-gymnasium-programmering-b-2022-2024]]
-*** Uge 5,6,8 og 9                       :OOP:Arkanoid:selvstændigt_arbejde:
+*** Uge 5,6,8 og 9                      :OOP:Arkanoid:selvstændigt_arbejde:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
 I disse fire uger er der blevet arbejdet selvstændigt med arkanoidopgaven.
-*** Uge 4                                :OOP:Arkanoid:selvstændigt_arbejde:
+*** Uge 4                               :OOP:Arkanoid:selvstændigt_arbejde:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
@@ -164,7 +170,7 @@ Onsdag er jeg ude som SOP-censor hele dagen, mens jeg skal på hospitalet med mi
 :VISIBILITY: folded
 :END:
 - Ingen undervisning, da jeg har været på Erasmusplus-tur til Holland hele ugen.
-*** Uge 2                                                              :OOP:
+*** Uge 2                                                             :OOP:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
@@ -173,10 +179,10 @@ Onsdag er jeg ude som SOP-censor hele dagen, mens jeg skal på hospitalet med mi
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2023-01-06 fre]                                                  :OOP:
+**** [2023-01-06 fre]                                                :OOP:
 Videre arbejde med PONG-spil.
 
-**** [2023-01-04 ons]                                                  :OOP:
+**** [2023-01-04 ons]                                                :OOP:
 Opstart på udvikling af prototype til et PONG-spil. Se
 
 [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/10_OOP/10_OOP.org][10_OOP.org]]
@@ -185,29 +191,29 @@ Opstart på udvikling af prototype til et PONG-spil. Se
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-12-16 fre]                                                  :OOP:
+**** [2022-12-16 fre]                                                :OOP:
 I dag står den på introduktion til ObjektOrienteret Programmering (OOP). I har allerede arbejdet lidt med det i SRC'en, men går vi lidt mere i dybden i selve progarmmeringsundervisningen. Præsentationen er stadig WIP (Work In Progress), men I kan finde den her:
 
 [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/10_OOP/10_OOP.org][10_OOP.org]]
 
-**** [2022-12-14 ons]                                            :datatyper:
+**** [2022-12-14 ons]                                          :datatyper:
 En lektion med datatyper. Vi arbejdede med Cæsarkryptering ved hjælp af UTF-8-tabellen.
 *** Uge 49           
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-12-09 fre]                                            :datatyper:
+**** [2022-12-09 fre]                                          :datatyper:
 I dag stod den på mere leg med datatyper, med særligt fokus på strenge og hvordan man i nogle tilfælde kan betragte strenge som lister af karakterer.
 Endelig blev I introduceret til /røversprog/ og vi udviklede en røversprogsgenerator.
 
-**** [2022-12-07 ons]                                            :datatyper:
+**** [2022-12-07 ons]                                          :datatyper:
 I dag skal vi se lidt nærmere på de datatyper, vi har anvendt indtil videre i programmering, og der ud over skal vi arbejde særligt med lister og strenge.
 
 I kan finde den tilhørende præsentation her:
 
 [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/09_Datatyper/09_Datatyper.org][09_Datatyper.org]]
 
-*** Uge 47 + 48                             :src:animation:vektorfunktioner:
+*** Uge 47 + 48                            :src:animation:vektorfunktioner:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
@@ -217,9 +223,9 @@ I kan finde den tilhørende præsentation her:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-11-18 fre]                                               :løkker:
+**** [2022-11-18 fre]                                             :løkker:
 - Arbejde med afleveringsopgaven om løkker på github classroom.
-**** [2022-11-16 ons]                                               :løkker:
+**** [2022-11-16 ons]                                             :løkker:
 Vi skal lige have færdiggjort den sidste opgave omkring konvertering fra binære tal til titalsystemet.
 
 Efterfølgende er der en afleveringsopgave på github classroom omkring løkker.
@@ -228,14 +234,14 @@ Den kan I finde her: [[https://classroom.github.com/a/ToTBNP1k]]
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-11-11 fre]                                               :løkker:
+**** [2022-11-11 fre]                                             :løkker:
 - I dag skal vi blive færdige med introduktionen til while-løkker.
 - Efterfølgende er der to forståelsesopgaver.
 - Hovedparten af dagens undervisning kommer til at foregå ved, at I skal skrive programmer, som kan konvertere fra almindelige tal i basis ti, til binære tal, og tilbage igen.
   Derfor vil I få en introduktion til binære tal først. Der står mere om det i præsentationen om løkker.
-**** [2022-11-09 ons]                                               :løkker:
+**** [2022-11-09 ons]                                             :løkker:
 Vi arbejdede med forståelsesopgaver og lidt med while-løkker.
-**** [2022-11-07 man]                                               :løkker:
+**** [2022-11-07 man]                                             :løkker:
 I dag står den på introduktion til løkker, for og while.
 
 I kan finde præsentationen her:
@@ -251,15 +257,15 @@ I dag arbejder vi/I videre med jeres spil med afsæt i opgaven "Flugten på Dune
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-10-13 tor]                          :løkker:random:if_statements:
+**** [2022-10-13 tor]                        :løkker:random:if_statements:
 I dag bliver I nødt til at få analyseret kode i gæt et tal, og så udarbejdet et tilsvarende rutediagram i ~plantuml~.
 
 Efterfølgende skal I arbejde med den næste aflevering, som hedder "Flugten på Dune". Find afleveringen på github classroom: [[https://classroom.github.com/a/ol5aRD7M]]
-**** [2022-10-10 man]                                      :random:plantuml:
+**** [2022-10-10 man]                                    :random:plantuml:
 Vi starter lektionen med lige at se et eksempel på en 2.gradsligningsløser. Derefter vil I blive introduceret til konceptet tilfældige tal (random numbers). Dette er der selvfølgelig en præsentation til.
 
 Find præsentationen her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/07_tilfaeldige_tal/07_tilfaeldige_tal.org][07_Tilfaeldige_tal.org]]
-*** Uge 40                                             :if_statements:input:
+*** Uge 40                                            :if_statements:input:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
@@ -269,12 +275,12 @@ I denne uge er der kun en lektion med programmering. I [[https://github.com/Vibe
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-09-29 tor]                   :if_statements:rutediagram:plantuml:
+**** [2022-09-29 tor]                 :if_statements:rutediagram:plantuml:
 I dag skal vi arbejde med betinget udførelse i programmering. Det går også under navnet if statements.
 
 I kan finde præsentationen her: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/06_Betinget_udfoerelse/06_Betinget_udfoerelse.org][06_Betinget_udfoerelse.org]].
 
-**** [2022-09-26 man]                                    :arcade:funktioner:
+**** [2022-09-26 man]                                  :arcade:funktioner:
 Vi fortsætter vores arbejde med at omdanne gamle programmer til at tegne billeder vha funktioner.
 *Alle* skal pushe deres arbejde til deres gitrepo, inden lektionen er slut.
 
@@ -283,16 +289,16 @@ Nogle enkelte af jer har endnu ikke accepteret opgaven i github classroom. Find 
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-09-19 man] og [2022-09-22 tor]                :arcade:funktioner:
+**** [2022-09-19 man] og [2022-09-22 tor]              :arcade:funktioner:
 I ugens lektioner skal der arbejdes med at refaktorisere den gamle kode til at tegne billeder vha ~arcade~ til at anvende funktioner.
 Selve opgaven kan findes på github classroom [[https://classroom.github.com/a/uem17Egi]].
 *** Uge 37
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-09-15 tor]                                    :arcade:funktioner:
+**** [2022-09-15 tor]                                  :arcade:funktioner:
 I dag har vi arbejdet videre med præsentationen [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/04_Funktioner/04_Funktioner.org][04_Funktioner.org]] samt set en meget kort gennemgang af præsentationen [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer/blob/main/05_Tegn_med_funktioner/05_Tegn_med_funktioner.org][05_Tegn_med_funktioner.org]].
-**** [2022-09-12 man]                                    :arcade:funktioner:
+**** [2022-09-12 man]                                  :arcade:funktioner:
 I dagens ene lektion skal vi se på, hvordan man *selv* kan konstruere funktioner.
 I kan finde præsentationen her:
 
@@ -302,7 +308,7 @@ I kan finde præsentationen her:
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-09-08 tor]                           :arcade:funktioner:variable:
+**** [2022-09-08 tor]                         :arcade:funktioner:variable:
 I dag skal vi have lidt mere teori omkring variable og definition af egne funktioner.
 
 Vi har følgende 3 præsentationer til gode
@@ -313,7 +319,7 @@ Vi har følgende 3 præsentationer til gode
 Samt denne opgave på github classroom
 - [[https://classroom.github.com/a/uem17Egi]]
 
-**** [2022-09-05 man]                                    :arcade:funktioner:
+**** [2022-09-05 man]                                  :arcade:funktioner:
 Dagens ene lektion bruges på at færdiggøre sit billede i arcade. *Alle* skal have gemt sit arbejde i github gennem github classroom, inden lektionen er omme.
 
 - Hvis man ikke allerede har fundet ud af at anvende ~git~ gennem ~pycharm~, så er det også i dag, at det skal sættes op. Det gør livet noget nemmere for den fremtidige programmør. :)
@@ -328,10 +334,10 @@ Dagens ene lektion bruges på at færdiggøre sit billede i arcade. *Alle* skal 
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-09-01 tor]                                    :arcade:funktioner:
+**** [2022-09-01 tor]                                  :arcade:funktioner:
 I dag skal vi lige se præsentationen færdig omkring brugen af ~arcade~. Efterfølgende skal I arbejde med opgaven omkring tegning af et billede vha primitive geometriske figurer. Opgaven ligger på github classroom. Se linket fra sidste lektion.
 
-**** [2022-08-29 man]                                    :arcade:funktioner:
+**** [2022-08-29 man]                                  :arcade:funktioner:
 I dag skal I til at anvende biblioteket =arcade=. Vi skal bruge det til at tegne billeder vha geometriske figurer.
 
 - Hvis I vil forberede jer inden, så læs her: [[https://learn.arcade.academy/en/latest/chapters/05_drawing/drawing.html]]
@@ -344,7 +350,7 @@ I dag skal I til at anvende biblioteket =arcade=. Vi skal bruge det til at tegne
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-08-25 tor]                                                :print:
+**** [2022-08-25 tor]                                              :print:
 Så går vi for alvor i gang med selve programmeringen. I dag skal vi se på de allerførste simple programstumper i =python=.
 
 - Hvis I vil forberede jer hjemmefra, så skal I læse indholdet/se videoerne på dette link: [[https://learn.arcade.academy/en/latest/chapters/04_print_statement/print_statement.html]]
@@ -355,7 +361,7 @@ Så går vi for alvor i gang med selve programmeringen. I dag skal vi se på de 
 
 - Endelig kommer I til at skulle arbejde med og aflevere følgende opgave på git classroom: [[https://classroom.github.com/a/_g8EyUgY]]
 
-**** [2022-08-22 man]                                                  :git:
+**** [2022-08-22 man]                                                :git:
 I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som følger:
 - Opret en ny gren (branch). Den kan f.eks. hedder oprydning.
   - Ryd op i de filer, I gerne vil beholde, mens I sletter dem, som I ikke har brug for længere.
@@ -368,7 +374,7 @@ I dag skal der ryddes op i jeres logbøger. Måden, I skal gøre det på, er som
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-08-18 tor]                                                  :git:
+**** [2022-08-18 tor]                                                :git:
 Jeg kan se, at stort set alle har fået committet en ændring i deres logbog, og pushet den til github. Godt arbejde!
 
 I dag skal vi se nærmere på, hvad git ellers kan. Til formålet anvender vi [[https://learngitbranching.js.org/]].
@@ -377,7 +383,7 @@ Når I rigtig skal bruge git til jeres udvikling af programmer. Foreslår jeg, a
 
 I logbogen skal I som minimum skrive de kommandoer ned, som skal bruges, når man arbejder med git feature branch workflow. Altså beskriv arbejdsgangen.
 
-**** [2022-08-15 man]                                                  :git:
+**** [2022-08-15 man]                                                :git:
 Sidste gang gik der meget tid med download og opsætning af programmer.
 
 *Dagens program er:*
@@ -392,7 +398,7 @@ Sidste gang gik der meget tid med download og opsætning af programmer.
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-**** [2022-08-11 tor]                                                :intro:
+**** [2022-08-11 tor]                                              :intro:
 
 *Dagens lektie*
 
@@ -403,7 +409,7 @@ Alle skal gerne have installeret =git=, =python= og en editor/et IDE (vælg pych
 Vi skal i dag arbejde med brugen af =git= og vi tager udgangspunkt i præsentationen om netop =git= [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/][her]]. I kan også finde linket til præsentationen under fanen Præsentationer her på siden.
 
 
-**** [2022-08-08 man]                                                :intro:
+**** [2022-08-08 man]                                              :intro:
 I dag står den på introduktion til faget programmering B. I kan finde den tilhørende præsentationer under fanen Præsentationer her på siden.
 
 Efter selve introduktionen til faget går vi så småt i gang med at installere det programmel (det danske ord for software), som vi skal bruge.
@@ -414,7 +420,7 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
 ** Databehandling
-Her er et link til præsentationerne omkring brugen af =csv= og =pandas= til indlæsning af datafiler, samt plot af data med =matplotlib=.
+Her er et link til præsentationerne omkring brugen af =csv= og =pandas= til indlæsning af datafiler, plot af data med =matplotlib= samt behandling af matematiske objekter med =sympy=.
 
 [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]]
 
@@ -448,6 +454,15 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 
 * Opgaver
+** Databehandling
+*** Pythobra
+Her er linket til opgaven om at udvikle en lightversion af geogebra vha. =csv=, =sympy=, =matplotlib= og =pyside6=.
+
+Her skal linket til eleverne være
+
+Skabelon til censor:
+
+Her skal linket til skabelonen være
 ** PySide6
 *** Opgave 03 Kryds og bolle
 Her er linket til opgaven om at udvikle kryds og bolle vha =PySide6=.
