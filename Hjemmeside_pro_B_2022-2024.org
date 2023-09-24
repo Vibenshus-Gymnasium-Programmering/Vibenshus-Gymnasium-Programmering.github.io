@@ -8,6 +8,20 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 39
+*** [2023-09-25 man]                                                :sympy:
+I dag skal vi gerne færdiggøre vores forløb om anvendelse af =sympy=. Vi skal se på plot af funktioner, omdannelse af tekststrenge til matematiske udtryk og endelig skal der løses en matematikopgave.
+
+*** [2023-09-27 ons]                                     :pythobra:projekt:
+Hvis alt går vel, skal vi i dag påbegynde et længere projekt, som omfatter brugen af mange af de emner, I har arbejdet med indtil videre. I skal udvikle en lightversion af /geogebra/, og I skal gøre det i grupper. Derfor kommer I til at skulle arbejde med følgende:
+
+- Udvikling af grafiske brugerflader i =pyside6=.
+- Behandling af matematiske udtryk i =sympy=.
+- Plotning af grafer osv i =matplotlib=.
+- Samarbejde om kode ved hjælp af =git=.
+
+Se meget mere om det, når projektoplægget er klart.
+
 ** Uge 38
 *** [2023-09-18 man]                                                :sympy:
 I dag begynder vi på et nyt miniforløb omkring symbolsk behandling af matematiske størrelser vha =python=. Til formålet skal vi anvende biblioteket =sympy=, som er et *CAS*-bibliotek (*C*​omputer *A*​lgebra *S*​ystem) skrevet i python.
