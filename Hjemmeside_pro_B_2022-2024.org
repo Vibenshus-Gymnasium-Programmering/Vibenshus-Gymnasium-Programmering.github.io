@@ -9,9 +9,6 @@
 
 * Lektionsbeskrivelser
 ** Uge 39
-*** [2023-09-25 man]                                                :sympy:
-I dag skal vi gerne færdiggøre vores forløb om anvendelse af =sympy=. Vi skal se på plot af funktioner, omdannelse af tekststrenge til matematiske udtryk og endelig skal der løses en matematikopgave.
-
 *** [2023-09-27 ons]                                     :pythobra:projekt:
 Hvis alt går vel, skal vi i dag påbegynde et længere projekt, som omfatter brugen af mange af de emner, I har arbejdet med indtil videre. I skal udvikle en lightversion af /geogebra/, og I skal gøre det i grupper. Derfor kommer I til at skulle arbejde med følgende:
 
@@ -20,7 +17,10 @@ Hvis alt går vel, skal vi i dag påbegynde et længere projekt, som omfatter br
 - Plotning af grafer osv i =matplotlib=.
 - Samarbejde om kode ved hjælp af =git=.
 
-Se meget mere om det, når projektoplægget er klart.
+Her er linket til projekt Pythobra [[https://classroom.github.com/a/VMSkhQvX]]
+
+*** [2023-09-25 man]                                                :sympy:
+I dag skal vi gerne færdiggøre vores forløb om anvendelse af =sympy=. Vi skal se på plot af funktioner, omdannelse af tekststrenge til matematiske udtryk og endelig skal der løses en matematikopgave.
 
 ** Uge 38
 *** [2023-09-18 man]                                                :sympy:
@@ -472,11 +472,11 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 *** Pythobra
 Her er linket til opgaven om at udvikle en lightversion af geogebra vha. =csv=, =sympy=, =matplotlib= og =pyside6=.
 
-Her skal linket til eleverne være
+[[https://classroom.github.com/a/VMSkhQvX]]
 
 Skabelon til censor:
 
-Her skal linket til skabelonen være
+[[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_projekt_Pythobra]]
 ** PySide6
 *** Opgave 03 Kryds og bolle
 Her er linket til opgaven om at udvikle kryds og bolle vha =PySide6=.
@@ -590,8 +590,30 @@ Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestof
 - arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer.
 
 Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
-** TODO Databehandling
-** TODO Matematisk værktøj - SymPy
+** Databehandling med cvs, matplotlib og sympy
+
+Eleverne er i første omgang blevet introduceret til bibliotekterne =csv= og =matplotlib=, som er blevet brugt til henholdsvis at indlæse datafiler og til at visualisere indholdet af dem. Arbejdet bestod først i at afprøve og forstå givne programstumper for til sidst at kunne importere og visualisere selvvalgte datafiler.
+
+Biblioteket =sympy= er efterfølgende blevet introduceret til behandling af matematiske udtryk. Det være sig omskrivning af matematiske udtryk, løsning af ligninger og ligningssystemer, infinitesimalregning samt plot af funktioner. Under plot af funktioner er eleverne blevet vist, hvordan sympy kan plotte direkte, og hvordan det kan kombineres med =matplotlib= for at få bedre kontrol over plottes udseende.
+
+Som afslutning på forløbet har eleverne arbejdet med et projekt kaldet *pythobra*, hvor de har udviklet deres egne (light-)versioner af geogebra eller lignende matematiske værktøjer. I projektet har de kombineret deres viden om grafiske brugerflader udviklet =pyside6= samt deres viden om databehanling med =csv=, =matplotlib= og =sympy=. I projektet har eleverne arbejdet sammen i mindre grupper og anvendt =git= som samarbejdsplatform og til versionskontrol.
+
+Præsentationer samt projektoplægget kan findes under fanerne Præsentationer og Opgaver.
+
+Forløbet dækker følgende faglige mål:
+Eleverne skal kunne:
+- bruge programmering til at undersøge et emnet eller problemområde, men henblok på - via programmets funktions - at skabe ny indsigt eller til at løse et problem
+- behandle problemstillinger i samspil med andre fag
+- anvende avancerede konstruktioner i et programmeringssprog
+- rette, tilpasse og udvide avancerede programmer
+- arbejde inkrementelt og systematisk i programmeringsprocessen.
+
+Af kernestof er følgende dækket:
+- programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer, parametrisering/abstraktionsmekanismer, rekursion, polymorfi og algoritmemønstre
+- arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer
+- generiske programdele og biblioteksmoduler
+- arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
+
 ** TODO Kryptografi
 ** TODO Robotstyring - Lego Mindstorms
 * Om
