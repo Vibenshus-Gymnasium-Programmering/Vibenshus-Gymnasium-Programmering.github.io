@@ -8,6 +8,49 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 40
+*** [2023-10-02 man]                                     :pythobra:projekt:
+Vi arbejder videre med projektet *pythobra*.
+
+I sidste uge havde vi lidt problemer med, at flere grupper fik =pushed= uønskede filer og mapper til github. Det var f.eks. =.idea=-mappen, som indeholder opsætningsfiler til pycharm og mappen =__pycache__=, som oprettes af python, når =pythobra_controller= køres. Her kommer der en procedure, I kan følge for at få fjernet uønskede filer og mapper fra versionskontrol gennem git.
+
+1. Opret en fil kaldet =.gitignore= i samme mappe som jeres projekt. Hvis man er anvender =git-bash= kan man skrive følgende:
+
+   #+begin_src bash
+touch .gitignore
+   #+end_src
+
+   Det burde også være muligt at oprette en =.gitignore=-fil gennem pycharm under menuen =git=. Der skal graves lidt efter den.
+
+2. Åbn =.gitignore= i en teksteditor og tilføj linjerne
+
+   #+begin_src 
+/.idea/
+/__pycache__/
+   #+end_src
+
+   Hvis der ligger andre mappe eller filer i projektmappen, som ikke skal deles på jeres gitrepo, så tilføj en linje for hver af dem.
+
+   I kan få mere information om brugen af en =.gitignore=-fil her:
+   
+   [[https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/]]
+
+3. For at fjerne en mappe eller fil, som allerede er tilføjet git, men som ikke skal være det længere, skal I køre følgende kommando i =git-bash= eller lignende:
+
+   #+begin_src bash
+git rm --cached den_fil_eller_mappe_som_skal_fjernes
+   #+end_src
+
+   Git vil nu vise filen, som slettet. =--cached= sørger for at I kan beholde den lokale kopi af filen/mappen på jeres computer, mens den fjernes fra jeres online git-repo, næste gang I =pusher=.
+
+4. Tjek lige, at filen/mappen faktisk står som slettet ved at køre =git status=.
+
+5. Til sidst skal I =committe= og =pushe= til jeres git-repo, så ændringerne også gemmes online.
+
+Vejledningen er fundet her:
+
+[[https://dev.to/brandondamue/how-to-quickly-remove-a-committed-file-from-git-version-control-glc]]
+
 ** Uge 39
 *** [2023-09-27 ons]                                     :pythobra:projekt:
 Hvis alt går vel, skal vi i dag påbegynde et længere projekt, som omfatter brugen af mange af de emner, I har arbejdet med indtil videre. I skal udvikle en lightversion af /geogebra/, og I skal gøre det i grupper. Derfor kommer I til at skulle arbejde med følgende:
