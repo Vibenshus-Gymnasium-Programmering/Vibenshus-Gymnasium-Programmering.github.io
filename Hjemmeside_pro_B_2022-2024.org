@@ -8,6 +8,16 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 43
+*** [2023-10-26 tor]                                     :pythobra:projekt:
+Så er der kommet nogle deadlines på plads ifm pythobra-projektet.
+
+Første deadline I skal forholde jer til, er *torsdag d. 2. november* (altså i næste uge). *Her skal I præsentere jeres forskellige udgaver af pythobra for hinanden*. Det er ikke forventet, at jeres programmer er færdige.
+
+Anden deadline er *søndag d. 12. november*, hvor I skal uploade jeres endelige versioner af jeres programmer til github. Sørg for at merge jeres development-branch ind i main og giv et versionsnummer. I kan se, hvordan man gør det, i den video om anvendelse af git, som jeg har linket til tidligere i selve oplægget til projektet.
+** Uge 41, 42                                             :pythobra:projekt:
+Der er blevet arbejdet med projektet i undervisningstiden.
+
 ** Uge 40
 *** [2023-10-02 man]                                     :pythobra:projekt:
 Vi arbejder videre med projektet *pythobra*.
