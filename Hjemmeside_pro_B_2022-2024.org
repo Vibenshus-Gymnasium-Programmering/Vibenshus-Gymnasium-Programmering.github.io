@@ -8,6 +8,77 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 44
+*** [2023-11-02 tor] Præsentationer                      :pythobra:projekt:
+I dag skal den stå på præsentationer af jeres pythobra-projekter for hinanden.
+
+Her er, hvad I skal gøre.
+
+Først skal I have nogle nye præsentationsgrupper.
+
+*Præsentationsgrupper*
+
+- Nikolaj
+- Thomas
+- Philip
+
+- Elias Westh
+- Hjalte
+- Yu-Cheng
+
+- Signe
+- Marco
+- Oskar
+- Yahia
+
+- Jacob
+- Nicki
+- Casper
+
+- Zakaria
+- Adam
+- Jens
+
+- Bertram
+- Elias Lieberoth
+- Thorbjørn
+
+- Valon
+- Abdi
+- Linus
+
+Hvis nogen ikke dukker op til undervisningen, så saml nogle andre grupper med udgangspunkt i de viste. I skal gerne være 3 i hver gruppe.
+
+Herefter er fremgangsmåden følgende:
+
+*Kort præsentation*
+ 
+1. Hvert medlem i de nye grupper præsenterer kort, hvordan deres program virker, og hvilke features det har. Der skal ikke vises noget kode frem på nuværende tidspunkt.
+2. De elever, som lytter til præsentationerne, noterer, hvilke features *fra de andres* programmer, som de føler sig inspirerede af og gerne vil se mere til. *Der skal mindst vælges en feature fra hver af de andre grupper*.
+
+*Forklaring af kode og opbygning af program*
+
+- Hvert gruppemedlem får nu lov til at spørge de andre gruppemedlemmer om, hvordan de har implementeret deres features i deres program.
+- De gruppemedlemmer, som bliver spurgt, viser og forklare nu koden til den feature, som de bliver spurgt ind til.
+- Det spørgende gruppemedlem tager notater til forklaringerne og/eller tager billeder af programmets udseende og koden.
+  
+*Hjem til egne grupper*
+
+- Alle elever finder tilbage til sine oprindelige arbejdsgrupper.
+- Hver elev i sin gruppe præsenterer, hvad de er blevet inspireret af ved at se de andre gruppers arbejde.
+  
+*Udvælgelse af nye features i egne grupper*
+
+- I egne arbejdsgrupper skal I udvælge hvilke nye features, I vil implementere på baggrund af jeres inspirationsrunde.
+- Det gruppemedlem, som har taget notater og lignende til den/de valgte feature/features, begynder at forklare, hvordan featuren kan implementeres. Det er meget fint at lade sig inspirere af andre, men det skal tilpasses jeres egne programmer og jeres egen kode.
+
+*** [2023-11-01 ons]                                     :pythobra:projekt:
+Gruppearbejde med projekt pythobra.
+*** [2023-10-30 man]                                     :pythobra:projekt:
+Almindeligt arbejde med projekt pythobra.
+
+I blev "advaret" om, at I skal præsentere jeres programmer for hinanden.
+
 ** Uge 43
 *** [2023-10-26 tor]                                     :pythobra:projekt:
 Så er der kommet nogle deadlines på plads ifm pythobra-projektet.
