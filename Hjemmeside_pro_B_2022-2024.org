@@ -22,27 +22,33 @@ Først skal I have nogle nye præsentationsgrupper.
 - Thomas
 - Philip
 
+  
 - Elias Westh
 - Hjalte
 - Yu-Cheng
 
+  
 - Signe
 - Marco
 - Oskar
 - Yahia
 
+  
 - Jacob
 - Nicki
 - Casper
 
+  
 - Zakaria
 - Adam
 - Jens
 
+  
 - Bertram
 - Elias Lieberoth
 - Thorbjørn
 
+  
 - Valon
 - Abdi
 - Linus
