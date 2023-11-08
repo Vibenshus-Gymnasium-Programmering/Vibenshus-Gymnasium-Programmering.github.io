@@ -8,6 +8,15 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 45
+*** [2023-11-09 tor]                                     :pythobra:projekt:
+Jeg er ked af, at jeg ikke nåede at overvære jeres præsentationer i torsdags, men sådan er det, når man bliver indlagt på hospitalet med sin datter. Rong var dog sammen med jer, og jer, som var til stede, fik øvet jer i at præsentere for hinanden.
+
+Jeg glæder mig til at høre, hvilke forskellige features I blev inspireret til at implementere i jeres egne programmer, ved at se de andres programmer.
+
+Husk, jeres programmer skal snart være færdige, og I skal skrive en lille brugermanual til dem også.
+
+Der er kun denne uge tilbage.
 ** Uge 44
 *** [2023-11-02 tor] Præsentationer                      :pythobra:projekt:
 I dag skal den stå på præsentationer af jeres pythobra-projekter for hinanden.
