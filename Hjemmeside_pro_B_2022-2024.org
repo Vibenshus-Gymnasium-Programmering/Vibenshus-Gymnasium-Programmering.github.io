@@ -17,6 +17,18 @@ Jeg glæder mig til at høre, hvilke forskellige features I blev inspireret til 
 Husk, jeres programmer skal snart være færdige, og I skal skrive en lille brugermanual til dem også.
 
 Der er kun denne uge tilbage.
+
+Her er et billede fra dagens lektioner.
+
+#+attr_html: :width 500px
+[[./img/20231109_082830.jpg]]
+
+Når I skal merge jeres development branch ind i main branch og efterfølgende give jeres main branch et tag, så se følgende video
+
+[[https://youtu.be/BF2OHMM86Ik?si=yL-yYZsy5f1xUrmA]]
+
+I skal gå til ca 31 min. I videoen omtales master branch. For jer hedder denne branch main.
+
 ** Uge 44
 *** [2023-11-02 tor] Præsentationer                      :pythobra:projekt:
 I dag skal den stå på præsentationer af jeres pythobra-projekter for hinanden.
