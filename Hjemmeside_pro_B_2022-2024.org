@@ -8,6 +8,13 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 48                             :algoritmer_pseudokode_flowdiagrammer:
+*** [2023-11-29 ons] Tilsynsbesøg!
+I dag har Rong 1. tilsynsbesøg. Derfor kommer der en række gæster, som skal observere undervisningen. Det skal nok blive aldeles spændende. :)
+** Uge 47                             :algoritmer_pseudokode_flowdiagrammer:
+Rong har arbejdet videre med algoritmer og pseudokode.
+** Uge 46                             :algoritmer_pseudokode_flowdiagrammer:
+I denne uge er der blevet arbejdet med algoritmer og pseudokode. I kan huske, at I har i to grupper, hvor I set billeder genereret ved hjælp af kode, som I så har skullet beskrive konstruktionen af. Efterfølgende har I byttet beskrivelser og forsøgt at tegne så godt som muligt efter beskrivelsen. Til sidst har I sammenlignet jeres tegninger med de oprindelige billeder.
 ** Uge 45
 *** [2023-11-09 tor]                                     :pythobra:projekt:
 Jeg er ked af, at jeg ikke nåede at overvære jeres præsentationer i torsdags, men sådan er det, når man bliver indlagt på hospitalet med sin datter. Rong var dog sammen med jer, og jer, som var til stede, fik øvet jer i at præsentere for hinanden.
@@ -765,8 +772,9 @@ Af kernestof er følgende dækket:
 - generiske programdele og biblioteksmoduler
 - arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
 
-** TODO Kryptografi
+** TODO Algoritmer, pseudokode og flowdiagrammer
 ** TODO Robotstyring - Lego Mindstorms
+** TODO Eksamensprojekt
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
 
