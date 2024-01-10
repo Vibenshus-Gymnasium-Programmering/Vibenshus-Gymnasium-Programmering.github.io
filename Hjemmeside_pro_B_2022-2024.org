@@ -8,6 +8,38 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 2                                               :Lego_Mindstorms_EV3:
+*** [2024-01-11 tor]
+I dagens lektioner skal I arbejde videre med jeres legorovere fra sidste gang. I skal have udviklet programmer, så jeres rover kan gennemføre alle missioner fra exoplanetroversimuleringen.
+
+*** [2024-01-10 ons]
+- I dag fik I til opgave at bygge hver jeres robot/rover. Der var et benspænd om, at I kunne måtte bruge 2 motorer og 2 hjul (Vi har ikke så mange hjul tilbage i legosættene).
+- Jeres opgave var efterfølgende at få skrevet et eller flere programmer, som kunne føre jeres rover gennem de samme missioner som i exoplanetroversimuleringen fra forrige uge.
+- I kunne finde vejledninger/dokumentation her: https://pybricks.com/ev3-micropython/
+
+** Uge 1                                               :Lego_Mindstorms_EV3:
+*** [2024-01-05 fre]
+I dag var første gang, hvor vi "rigtigt" arbejdede med Lego Mindstorms ev3.
+
+Vi byggede ikke rigtig så mange ting/robotter, men I lærte,
+
+- at man kan installere en særudgave af Debian Stretch (en linuxdistribution) specielt designet til ev3, på et mikrosdkort og så boote ev3'eren op fra det.
+- at logge ind på jeres ev3'ere gennem en =ssh=-forbindelse, hvor I kunne arbejde i en =bash=-shell, og kode programmer direkte på jeres ev3'ere fra jeres egne laptop.
+
+Nogle af jer lærte også, hvordan =VS Code= og 2 tilhørende moduler kunne bruges til at tilgå jeres ev3'ere, så udviklingsprocessen blev hurtigere.
+
+Der er guides at finde her:
+
+- [[https://github.com/jonascj/lego-mindstorms-ev3dev-python-how-to]]
+- https://pybricks.com/install/mindstorms-ev3/installation/ 
+- https://pybricks.com/ev3-micropython/index.html
+*** [2024-01-04 tor] 
+Tagget siger Lega Mindstorms, men vi arbejdede faktisk med nogle små opgaver om at styre en rover på en fremmed (exoplanet).
+
+Det hele er sat op på hjemmesiden: [[https://jacobdebel.github.io/Exoplaneten_programmering/]]
+
+Her findes 7 forskellige missioner, som skal løses gennem programmering. Alt kører på hjemmesiden, så ingen setup er nødvendig.
+
 ** Uge 48                             :algoritmer_pseudokode_flowdiagrammer:
 *** [2023-11-29 ons] Tilsynsbesøg!
 I dag har Rong 1. tilsynsbesøg. Derfor kommer der en række gæster, som skal observere undervisningen. Det skal nok blive aldeles spændende. :)
