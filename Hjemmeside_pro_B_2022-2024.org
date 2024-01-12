@@ -9,6 +9,95 @@
 
 * Lektionsbeskrivelser
 ** Uge 2                                               :Lego_Mindstorms_EV3:
+*** [2024-01-12 fre]
+Her er kildekoden til demonstrationsrobotten. Brug den til at blive inspireret.
+
+#+begin_src python :exports both :results output :eval never-export
+#!/usr/bin/env pybricks-micropython
+
+from pybricks.hubs import EV3Brick
+from pybricks.ev3devices import Motor, UltrasonicSensor, TouchSensor, ColorSensor
+from pybricks.parameters import Port, Color
+from pybricks.robotics import DriveBase
+from pybricks.tools import wait
+
+# from pybricks.tools import multitask
+# from pybricks.tools import run_task
+
+import _thread
+
+ev3 = EV3Brick()
+speaker_lock = _thread.allocate_lock()
+
+large_motor = Motor(Port.A)
+
+ultrasonic_sensor = UltrasonicSensor(Port.S1)
+
+touch_sensor = TouchSensor(Port.S2)
+
+color_sensor = ColorSensor(Port.S3)
+
+
+def ultrasonic_distance_indicator():
+    while True:
+        if ultrasonic_sensor.distance() < 50:
+            ev3.light.on(Color.RED)
+            print("Too close")
+            ev3.screen.print("Too close")
+        elif ultrasonic_sensor.distance() < 100:
+            ev3.light.on(Color.YELLOW)
+        else:
+            ev3.light.on(Color.GREEN)
+        wait(500)
+
+
+def touch_sensor_activation():
+    ev3.speaker.set_speech_options(language="en", voice="m1", speed=200)
+    while True:
+        if touch_sensor.pressed():
+            speaker_lock.acquire(False)
+            try:
+                print("Oh...you touch my tra la la. Uhm...my ding ding dong")
+                ev3.screen.print("Oh...you touch my tra la la. Uhm...my ding ding dong")
+                ev3.speaker.say("Oh...you touch my tra la la. Mmm...my ding ding dong")
+            finally:
+                speaker_lock.release()
+
+
+def color_sensor_block():
+    while True:
+        if color_sensor.color() == Color.RED:
+            print("Brake!")
+            ev3.screen.print("Brake!")
+            large_motor.brake()
+        elif color_sensor.color() == Color.GREEN:
+            print("Full speed ahead!")
+            ev3.screen.print("Full speed ahead!")
+            large_motor.run(1050)
+
+
+def main():
+    print("Start of ev3 demo")
+    ev3.screen.print("Start of ev3 demo")
+
+    color_sensor_block_thread = _thread.start_new_thread(color_sensor_block, ())
+    ultrasonic_distance_indicator_thread = _thread.start_new_thread(
+        ultrasonic_distance_indicator, ()
+    )
+    touch_sensor_activation_thread = _thread.start_new_thread(
+        touch_sensor_activation, ()
+    )
+    seconds = 0
+    while True:
+        print("main loop running for {}".format(seconds))
+        ev3.screen.print("main loop running for {}".format(seconds))
+        wait(1000)
+        seconds += 1
+
+
+main()
+#+end_src
+
 *** [2024-01-11 tor]
 I dagens lektioner skal I arbejde videre med jeres legorovere fra sidste gang. I skal have udviklet programmer, så jeres rover kan gennemføre alle missioner fra exoplanetroversimuleringen.
 
