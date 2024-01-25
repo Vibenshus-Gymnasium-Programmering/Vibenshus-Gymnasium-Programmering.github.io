@@ -8,6 +8,17 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 4                                               :Lego_Mindstorms_EV3:
+*** [2024-01-25 tor]
+I dag skal I *refaktorere* jeres kode til robotterne, så den bliver objektorienteret. Det vil sige, at I skal opbygge klasser til jeres robotter med passende attributter (objektvariable) og metoder (funktioner, som objektet kan udføre). Sørg for at få skrevet/tegnet nogle klasse- og rutediagrammer, som passer til.
+
+Husk at vi før har anvendt [[https://www.plantuml.com/plantuml/uml/][plantuml]] til at tegne diagrammerne.
+
+(Der findes også [[https://mermaid.live][mermaid]] som et javascript-alternativ, men det må I selv sætte jer ind i, hvis I ønsker at anvende det.)
+** Uge 3                                               :Lego_Mindstorms_EV3:
+I denne uge arbejdede vi videre med at bygge legorobotter.
+*** [2024-01-19 fre]
+Dagens udfordring var, at hver robot mindst skulle anvende en sensor.
 ** Uge 2                                               :Lego_Mindstorms_EV3:
 *** [2024-01-12 fre]
 Her er kildekoden til demonstrationsrobotten. Brug den til at blive inspireret.
@@ -833,9 +844,19 @@ Sørg for at føre logbog hver uge. Der bliver holdt øje med jer. :)
 
 * UVB
 ** Python og pycharm
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~ er blevet introduceret som IDE. Det har været frit for eleverne at vælge en anden editor, hvis de har ønsket det. Underviseren har selv anvendt ~emacs~.
 
 ** Git 
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 - Installation af git 
 - Introduktion til brug af git i ~bash~ (kommandolinjen) på lokal maskine.
 - Introduktion til github og github classroom.
@@ -845,6 +866,11 @@ I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~
 - Eleverne er blevet opfordret til at føre deres *logbog* i et git-repo på github classroom, hvor man f.eks. kan skrive sin tekst i enten ~markdown~- eller ~org mode~-syntaks.
   
 ** Grundlæggende programmering med ~python arcade~
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 Til introduktion til de basale elementer i programmering er bibliotektet ~arcade~ ([[https://api.arcade.academy/en/latest/]]) anvendt. ~arcade~ er blevet installeret gennem anvendelse af virtuelle miljøer og ~pip~.
 
 Ved basale elementer menes der:
@@ -861,6 +887,11 @@ Meget af undervisningen er blevet inspireret af indholdet i *onlinebogen* [[http
 Præsentationerne har været opbygget med en del småopgaver, som nemt kunne kopieres ind i pycharm eller lignende og løses simpelt. Derudover har der dog også været en række "større" opgaver, som eleverne har tilgået gennem ~github classroom~. Hver elev har derfor fået sit eget gitrepo til hver af disse opgaver, som kun de og underviseren har adgang til. Eleverne har så "afleveret" dagens arbejde med at ~pushe~ deres sidste ændringer. På den måde har det været muligt løbende at holde øje progressionen. Selve opgaverne kan også findes her på siden under fanen Opgaver og afsnittet Arcade.
 
 ** Udvikling af GUIs med ~pyside6~
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 Til udvikling af grafiske brugerflader er der blevet anvendt biblioteket ~Qt for python~, som i folkemunde blot hedder ~pyside6~ i nuværende version. 
 
 Man kan både udvikle de grafiske brugerflader "i hånden" (skrive koden direkte) eller man kan designe brugerflader i programmet ~Designer~. Begge dele er blevet introduceret.
@@ -870,6 +901,11 @@ Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestof
 
 Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
 ** Databehandling med cvs, matplotlib og sympy
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 
 Eleverne er i første omgang blevet introduceret til bibliotekterne =csv= og =matplotlib=, som er blevet brugt til henholdsvis at indlæse datafiler og til at visualisere indholdet af dem. Arbejdet bestod først i at afprøve og forstå givne programstumper for til sidst at kunne importere og visualisere selvvalgte datafiler.
 
@@ -894,8 +930,23 @@ Af kernestof er følgende dækket:
 - arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
 
 ** TODO Algoritmer, pseudokode og flowdiagrammer
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 ** TODO Robotstyring - Lego Mindstorms
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 ** TODO Eksamensprojekt
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+*** Arbejdsformer
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
 
