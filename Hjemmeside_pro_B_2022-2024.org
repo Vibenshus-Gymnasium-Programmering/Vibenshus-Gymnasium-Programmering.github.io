@@ -8,7 +8,14 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 5                                               :Lego_Mindstorms_EV3:
+*** [2024-02-01 tor]
+I dag er I blevet introduceret til afleveringen af jeres rapporter/synopser i forbindelse med jeres arbejde med lego mindstorms-robotterne.
+
+I kan finde jeres afleverings-repo på github classroom her: https://classroom.github.com/a/BUiVwGQZ
 ** Uge 4                                               :Lego_Mindstorms_EV3:
+*** [2024-01-26 fre]
+Videre arbejde med robotterne og omskrivning af koden til OOP.
 *** [2024-01-25 tor]
 I dag skal I *refaktorere* jeres kode til robotterne, så den bliver objektorienteret. Det vil sige, at I skal opbygge klasser til jeres robotter med passende attributter (objektvariable) og metoder (funktioner, som objektet kan udføre). Sørg for at få skrevet/tegnet nogle klasse- og rutediagrammer, som passer til.
 
@@ -758,6 +765,14 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 
 * Opgaver
+** Lego mindstorms-robotter
+Her er linket til opgaven om at udvikle en lego mindstorms-robot, hvor koden er skrevet i =python=.
+
+https://classroom.github.com/a/BUiVwGQZ
+
+Skabelone til censor:
+
+https://github.com/Vibenshus-Gymnasium-Programmering/Lego_mindstorms_opgave
 ** Databehandling
 *** Pythobra
 Her er linket til opgaven om at udvikle en lightversion af geogebra vha. =csv=, =sympy=, =matplotlib= og =pyside6=.
