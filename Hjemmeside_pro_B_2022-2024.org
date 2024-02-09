@@ -8,6 +8,9 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 6                                               :Lego_Mindstorms_EV3:
+*** [2024-02-08 tor] og [2024-02-09 fre]
+Resten af undervisningstiden i uge 6 bruges på at skrive synopserne færdige ifm jeres LEGO-robotter.
 ** Uge 5                                               :Lego_Mindstorms_EV3:
 *** [2024-02-01 tor]
 I dag er I blevet introduceret til afleveringen af jeres rapporter/synopser i forbindelse med jeres arbejde med lego mindstorms-robotterne.
@@ -765,12 +768,25 @@ Her er præsentationen til faget. Åbn linket i en anden tab/et andet vindue.
 [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 
 * Opgaver
+** Eksamensprojekt
+Her er linket til jeres eksamensprojektoplæg.
+
+https://classroom.github.com/a/Ebh4o9kw
+
+Skabelon til censor:
+
+https://github.com/Vibenshus-Gymnasium-Programmering/Eksamensprojekt_pro_B
+
+Her til jeres eksamensprojekt skal I huske også at aflevere synopsis og produkt (koden) på skolens IT-platform (lectio).
+
+Deadline er d. 5. maj 2024, og denne må *ikke* under nogen omstændigheder overskrides.
+
 ** Lego mindstorms-robotter
 Her er linket til opgaven om at udvikle en lego mindstorms-robot, hvor koden er skrevet i =python=.
 
 https://classroom.github.com/a/BUiVwGQZ
 
-Skabelone til censor:
+Skabelon til censor:
 
 https://github.com/Vibenshus-Gymnasium-Programmering/Lego_mindstorms_opgave
 ** Databehandling
