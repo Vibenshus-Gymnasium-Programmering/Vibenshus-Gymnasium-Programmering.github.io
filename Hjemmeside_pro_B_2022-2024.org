@@ -8,6 +8,18 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 8                                                   :Eksamensprojekt:
+*** [2024-02-23 fre]
+Vi arbejder i dag videre med opstarten på eksamensprojektet.
+
+Vi skal særligt se på idéudvikling og idésortering, samt få skrevet processen ind i logbogen.
+
+*** [2024-02-22 tor]
+I dag er vi startet op på eksamensprojektet.
+
+I kan finde projektoplægget og den tilhørende aflevering i github classroom her: https://classroom.github.com/a/Ebh4o9kw
+
+I kan yderligere finde præsentationen til opstartsfasen her: https://vibenshus-gymnasium-programmering.github.io/Eksamensprojekt_opstart
 ** Uge 6                                               :Lego_Mindstorms_EV3:
 *** [2024-02-08 tor] og [2024-02-09 fre]
 Resten af undervisningstiden i uge 6 bruges på at skrive synopserne færdige ifm jeres LEGO-robotter.
@@ -733,6 +745,11 @@ Efter selve introduktionen til faget går vi så småt i gang med at installere 
 *Post Scriptum*
 Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok blive et rigtig godt år!
 * Præsentationer
+** Eksamensprojekt
+Her er et link til præsentationen knyttet til opstarten af eksamensprojektet.
+
+https://vibenshus-gymnasium-programmering.github.io
+
 ** Databehandling
 Her er et link til præsentationerne omkring brugen af =csv= og =pandas= til indlæsning af datafiler, plot af data med =matplotlib= samt behandling af matematiske objekter med =sympy=.
 
