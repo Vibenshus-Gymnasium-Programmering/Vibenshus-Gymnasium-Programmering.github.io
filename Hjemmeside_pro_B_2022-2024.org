@@ -748,7 +748,7 @@ Så er vi ligesom i gang. Det var dejligt at lære jer at kende. Det skal nok bl
 ** Eksamensprojekt
 Her er et link til præsentationen knyttet til opstarten af eksamensprojektet.
 
-https://vibenshus-gymnasium-programmering.github.io
+https://vibenshus-gymnasium-programmering.github.io/Eksamensprojekt_opstart
 
 ** Databehandling
 Her er et link til præsentationerne omkring brugen af =csv= og =pandas= til indlæsning af datafiler, plot af data med =matplotlib= samt behandling af matematiske objekter med =sympy=.
