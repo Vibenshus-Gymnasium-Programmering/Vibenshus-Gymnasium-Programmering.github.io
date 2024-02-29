@@ -771,7 +771,7 @@ Her er et link til præsentationerne omkring udvikling af grafiske brugerflader 
 [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
 
 ** SRC - Vektorfunktioner i matematik og programmering
-Her er et link til præsentationen omkring vektorfunktioner og hvordan man kan animere dem i python ved hjælp af biblioteket =arcade=, som I kender allerede.
+Her er et link til præsentationen omkring vektorfunktioner, og hvordan man kan animere dem i python ved hjælp af biblioteket =arcade=, som I kender allerede.
 
 [[https://vibenshus-gymnasium-programmering.github.io/SRC_vektorfunktioner_i_matematik_og_programmering/]]
 ** Arcade
@@ -816,8 +816,7 @@ https://classroom.github.com/a/BUiVwGQZ
 Skabelon til censor:
 
 https://github.com/Vibenshus-Gymnasium-Programmering/Lego_mindstorms_opgave
-** Databehandling
-*** Pythobra
+** Databehandling - Pythobra
 Her er linket til opgaven om at udvikle en lightversion af geogebra vha. =csv=, =sympy=, =matplotlib= og =pyside6=.
 
 [[https://classroom.github.com/a/VMSkhQvX]]
@@ -903,78 +902,132 @@ Sørg for at føre logbog hver uge. Der bliver holdt øje med jer. :)
 * UVB
 ** TODO Eksamensprojekt
 *** Indhold og fokus
+Arbejdet med eksamensprojektet er inddelt i 3 faser. En opstartsfase, en arbejdsfase samt en afslutningsfase.
+Opstartsfasen lægger ud med gruppedannelse ud fra projektoplæggets 5 overemner og bliver efterfulgt af idégenerering, idésortering, kravspecifesering samt projektbeskrivelse. Der kan ses mere om denne opstartsfase i den tilhørende præsentation under anvendt materiale.
 *** Faglige mål
+Eleverne skal kunne:
+- bruge programmering til at undersøge et emne eller problemområde, med henblik på – via programmets funktion - at skabe ny indsigt eller til at løse et problem
+- anvende avancerede konstruktioner i et programmeringssprog
+- redegøre for arkitekturen af programmer på forskellige abstraktionsniveauer, herunder relationen mellem brug og funktion
+- redegøre for simple specifikationsmodeller og realisere disse i simple velstrukturerede programmer samt teste disse
+- demonstrere viden om fagets identitet og metoder
+- arbejde inkrementelt og systematisk i programmeringsprocessen.
 *** Kernestof
+Kernestoffet er:
+- programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer, parametrisering/abstraktionsmekanismer, rekursion, polymorfi og algoritmemønstre
+- arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer
+- generiske programdele og biblioteksmoduler
+- arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
+- abstrakte programmeringsbeskrivelser og dokumentation.
 *** Anvendt materiale
 - Oplæg til eksamensprojektet: https://github.com/Vibenshus-Gymnasium-Programmering/Eksamensprojekt_pro_B
-- Præsentation ifm opstarten på eksamensprojektet: https://vibenshus-gymnasium-programmering.github.io/Eksamensprojekt_opstart
+- Præsentation i forbindelse med opstarten på eksamensprojektet: https://vibenshus-gymnasium-programmering.github.io/Eksamensprojekt_opstart
 *** Arbejdsformer
-** TODO Robotstyring - Lego Mindstorms
+- Idé-generering og -sortering
+- Gruppearbejde
+- Afrapportering
+** Robotstyring - Lego Mindstorms
 *** Indhold og fokus
+Skolen ligger inde med en lille beholdning Lego Mindstorms ev3-robotter. I stedet for at anvende Legos eget blokprogrammeringssprog er der blevet installeret en specialdesignet linuxdistribution på hver af robotterne, hvorved det har været muligt at programmere robotterne i (micro)python. Der er blevet anvendt installations guides og tutorials mv fra https://pybricks.com/ev3-micropython/index.html. Man kan se flere kilder under anvendt materiale.
+
+Ud over undervisning i anvendelsen af pybricks-bibliotekerne til styring af Legorobotterne er eleverne også blevet undervist i at tilgå Unix-like operativsystemer gennem =ssh=, nagivere rundt i en =bash=-shell, samt editere pythonfiler direkte i shell'en gennem brugen =nano= (og lidt =vim=). Senere hen blev Visual Studio Code også anvendt sammen med ev3-plugins, så skrivning og upload af kode til ev3-robotterne blev gjort mere tilgængeligt for eleverne.
 *** Faglige mål
+Eleverne skal kunne:
+- bruge programmering til at undersøge et emne eller problemområde, med henblik på – via programmets funktion - at skabe ny indsigt eller til at løse et problem
+- anvende avancerede konstruktioner i et programmeringssprog
+- redegøre for arkitekturen af programmer på forskellige abstraktionsniveauer, herunder relationen mellem brug og funktion
+- redegøre for simple specifikationsmodeller og realisere disse i simple velstrukturerede programmer samt teste disse
+- arbejde inkrementelt og systematisk i programmeringsprocessen.
 *** Kernestof
+Kernestoffet er:
+- arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer
+- generiske programdele og biblioteksmoduler
+- arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
+- abstrakte programmeringsbeskrivelser og dokumentation.
 *** Anvendt materiale
 - Information og opgave findes her: https://github.com/Vibenshus-Gymnasium-Programmering/Lego_mindstorms_opgave
 *** Arbejdsformer
-** TODO Algoritmer, rekursion og generativ kunst
+- Gruppearbejde
+- Projekt
+- Afrapportering
+** Algoritmer, rekursion og generativ kunst
 *** Indhold og fokus
+Se under anvendt materiale.
 *** Faglige mål
+Eleverne skal:
+- anvende avancerede konstruktioner i et programmeringssprog
 *** Kernestof
+Kernestoffet er:
+- programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer, parametrisering/abstraktionsmekanismer, *rekursion*, polymorfi og algoritmemønstre
+- abstrakte programmeringsbeskrivelser og dokumentation.
 *** Anvendt materiale
 - En kort beskrivelse af indholdet i forløbet: https://github.com/Vibenshus-Gymnasium-Programmering/Algoritmer_rekursion_generativ_kunst
 *** Arbejdsformer
-** TODO Databehandling med cvs, matplotlib og sympy
+- "Analog" programmering med papir og tuscher.
+- Individuelt arbejde
+- Gruppearbejde
+** Databehandling med cvs, matplotlib og sympy
 *** Indhold og fokus
-*** Faglige mål
-*** Kernestof
-*** Anvendt materiale
-- Samlede præsentation omkring databehandling: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]]
-*** Arbejdsformer
-
 Eleverne er i første omgang blevet introduceret til bibliotekterne =csv= og =matplotlib=, som er blevet brugt til henholdsvis at indlæse datafiler og til at visualisere indholdet af dem. Arbejdet bestod først i at afprøve og forstå givne programstumper for til sidst at kunne importere og visualisere selvvalgte datafiler.
 
 Biblioteket =sympy= er efterfølgende blevet introduceret til behandling af matematiske udtryk. Det være sig omskrivning af matematiske udtryk, løsning af ligninger og ligningssystemer, infinitesimalregning samt plot af funktioner. Under plot af funktioner er eleverne blevet vist, hvordan sympy kan plotte direkte, og hvordan det kan kombineres med =matplotlib= for at få bedre kontrol over plottes udseende.
 
 Som afslutning på forløbet har eleverne arbejdet med et projekt kaldet *pythobra*, hvor de har udviklet deres egne (light-)versioner af geogebra eller lignende matematiske værktøjer. I projektet har de kombineret deres viden om grafiske brugerflader udviklet =pyside6= samt deres viden om databehanling med =csv=, =matplotlib= og =sympy=. I projektet har eleverne arbejdet sammen i mindre grupper og anvendt =git= som samarbejdsplatform og til versionskontrol.
 
-Præsentationer samt projektoplægget kan findes under fanerne Præsentationer og Opgaver.
-
-Forløbet dækker følgende faglige mål:
-Eleverne skal kunne:
-- bruge programmering til at undersøge et emnet eller problemområde, men henblok på - via programmets funktions - at skabe ny indsigt eller til at løse et problem
+*** Faglige mål
+Eleverne skal:
+- bruge programmering til at undersøge et emne eller problemområde, med henblik på – via programmets funktion - at skabe ny indsigt eller til at løse et problem
 - behandle problemstillinger i samspil med andre fag
 - anvende avancerede konstruktioner i et programmeringssprog
-- rette, tilpasse og udvide avancerede programmer
+- redegøre for arkitekturen af programmer på forskellige abstraktionsniveauer, herunder relationen mellem brug og funktion
+- rette tilpasse og udvide avancerede programmer
 - arbejde inkrementelt og systematisk i programmeringsprocessen.
-
-Af kernestof er følgende dækket:
+*** Kernestof
+Kernestoffet er:
 - programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer, parametrisering/abstraktionsmekanismer, rekursion, polymorfi og algoritmemønstre
 - arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer
 - generiske programdele og biblioteksmoduler
 - arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
-  
-** TODO Udvikling af GUIs med ~pyside6~
-*** Indhold og fokus
-*** Faglige mål
-*** Kernestof
+- abstrakte programmeringsbeskrivelser og dokumentation.
 *** Anvendt materiale
-- Samlede præsentationer om GUI-udvikling: [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
+- Samlede præsentationer omkring databehandling: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]]
+- Større projekt om udvikling af geogebraklon:
+  [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_projekt_Pythobra][Projekt Pythobra]]
 *** Arbejdsformer
+- Use-Modify-Create
+- Plenumpræsentationer
+- Småopgaver
+- Gruppearbejde i git
+- Projektarbejde
+- Afrapportering
+
+  
+** Udvikling af GUIs med ~pyside6~
+*** Indhold og fokus
 Til udvikling af grafiske brugerflader er der blevet anvendt biblioteket ~Qt for python~, som i folkemunde blot hedder ~pyside6~ i nuværende version. 
 
 Man kan både udvikle de grafiske brugerflader "i hånden" (skrive koden direkte) eller man kan designe brugerflader i programmet ~Designer~. Begge dele er blevet introduceret.
 
-Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestoffet:
+*** Faglige mål
+Eleverne skal kunne:
+- bruge programmering til at undersøge et emne eller problemområde, med henblik på - via programmets funktion - at skabe ny indsigt eller til at løse et problem
+- redegøre for arkitekturen af programmer på forskellige abstraktionsniveauer, herunder relation mellem brug og funktion
+- rette, tilpasse og udvide avancerede programmer
+*** Kernestof
+Kernestoffet er:
 - arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer.
 
-Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
-** TODO Grundlæggende programmering med ~python arcade~
-*** Indhold og fokus
-*** Faglige mål
-*** Kernestof
 *** Anvendt materiale
-- Samlede præsentationer om grundlæggende programmering og arcade: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer]]
+- Samlede præsentationer om GUI-udvikling: [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
+- Diverse opgaver:
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_andengradsligningsloeser.git][Opgave 01 Grafisk andengradsligningsløser]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/roeversprogsoversaetter.git][Opgave 02 Røversprogsoversætter]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_Kryds_og_bolle][Opgave 03 Kryds og bolle]]
 *** Arbejdsformer
+- Use-Modify-Create
+- Individuelle opgaver
+** Grundlæggende programmering med ~python arcade~
+*** Indhold og fokus
 Til introduktion til de basale elementer i programmering er bibliotektet ~arcade~ ([[https://api.arcade.academy/en/latest/]]) anvendt. ~arcade~ er blevet installeret gennem anvendelse af virtuelle miljøer og ~pip~.
 
 Ved basale elementer menes der:
@@ -989,14 +1042,31 @@ Yderligere er OOP også introduceret vha ~arcade~-biblioteket.
 Meget af undervisningen er blevet inspireret af indholdet i *onlinebogen* [[https://learn.arcade.academy/en/latest/][Arcade Academy - Learn Python]]. Kapitlerne/undersiderne kan dog godt ændre sig med tiden, så derfor er der udviklet/oversat undervisningspræsentationer på dansk med tilsvarende indhold. Disse præsentationer kan findes her på siden under fanen Præsentationer og afsnittet Arcade. Præsentationerne er skrevet i ~orgmode~ med indlejret ~python~-kode, og er lagt op på github. Med den rette opsætning af emacs kan pythonkoden i præsentationerne køres interaktivt i emacs, mens eleverne kan følge med i præsentationen på github og selv nemt kan kopiere kodestumperne ind i deres IDE.
 
 Præsentationerne har været opbygget med en del småopgaver, som nemt kunne kopieres ind i pycharm eller lignende og løses simpelt. Derudover har der dog også været en række "større" opgaver, som eleverne har tilgået gennem ~github classroom~. Hver elev har derfor fået sit eget gitrepo til hver af disse opgaver, som kun de og underviseren har adgang til. Eleverne har så "afleveret" dagens arbejde med at ~pushe~ deres sidste ændringer. På den måde har det været muligt løbende at holde øje progressionen. Selve opgaverne kan også findes her på siden under fanen Opgaver og afsnittet Arcade.
-
-** TODO Git 
-*** Indhold og fokus
 *** Faglige mål
+Eleverne skal kunne:
+- anvende avancerede konstruktioner i et programmeringssprog
+- rette, tilpasse og udvide avancerede programmer
 *** Kernestof
+Kernestoffet er:
+- programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer, +parametrisering/abstraktionsmekanismer, rekursion, polymorfi og algoritmemønstre+
+- generiske programdele og biblioteksmoduler
 *** Anvendt materiale
-- En præsentation om brugen af git: [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/]]
+- Samlede præsentationer om grundlæggende programmering og arcade: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer]]
+- Diverse opgaver:
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_01_Foerste_program.git][Opgave 01 Printfunktionen]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_02_Tegn_et_billede.git][Opgave 02 Tegn et billede]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade-Opgave-03-Tegn-med-funktioner.git][Opgave 03 Tegn med funktioner]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_04_Flugten_paa_Dune.git][Opgave 04 Flugten på Dune]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_Opgave_5_Tegn_med_loekker.git][Opgave 05 Tegn med løkker]]
+  - [[https://github.com/Vibenshus-Gymnasium-Programmering/Opgave_06_Arkanoid.git][Opgave 06 Arkanoid]]
 *** Arbejdsformer
+- Use-modify-create
+- Individuelt
+- Gruppearbejde
+- Afrapportering
+
+** Git 
+*** Indhold og fokus
 - Installation af git 
 - Introduktion til brug af git i ~bash~ (kommandolinjen) på lokal maskine.
 - Introduktion til github og github classroom.
@@ -1004,15 +1074,26 @@ Præsentationerne har været opbygget med en del småopgaver, som nemt kunne kop
 - Introduktion til [[https://docs.github.com/en/get-started/quickstart/github-flow][github flow]], når man arbejder sammen med andre.
 - Der er blevet leget med de tutorials, som ligger på [[https://learngitbranching.js.org/]].
 - Eleverne er blevet opfordret til at føre deres *logbog* i et git-repo på github classroom, hvor man f.eks. kan skrive sin tekst i enten ~markdown~- eller ~org mode~-syntaks.
-  
-** TODO Python og pycharm
-*** Indhold og fokus
 *** Faglige mål
+--
 *** Kernestof
+--
+*** Anvendt materiale
+- En præsentation om brugen af git: [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/]]
+*** Arbejdsformer
+- Individuel
+- Mindre grupper
+** Python og pycharm
+*** Indhold og fokus
+I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~ er blevet introduceret som IDE. Det har været frit for eleverne at vælge en anden editor, hvis de har ønsket det. Underviseren har selv anvendt ~emacs~.
+*** Faglige mål
+--
+*** Kernestof
+--
 *** Anvendt materiale
 - En introduktionspræsentation til faget og installation af programmer: [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 *** Arbejdsformer
-I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~ er blevet introduceret som IDE. Det har været frit for eleverne at vælge en anden editor, hvis de har ønsket det. Underviseren har selv anvendt ~emacs~.
+- Individuel
 
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
