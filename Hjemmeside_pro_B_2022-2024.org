@@ -8,6 +8,11 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 9                                                   :Eksamensprojekt:
+*** [2024-02-29 tor] og [2024-03-01 fre]
+Når ugen er omme skal alle grupper have lagt sig fast på et projekt inden for de udstukne emner. Projektet skal beskrives gennem en projektbeskrivelse med tilhørende problemformulering. Denne projektbeskrivelse skal skrives ind i synopsen og skal godkendes af underviseren.
+
+På vejen til hen til projektbeskrivelsen kommer vi til at arbejde med lidt abstrakte dokumentationsformer såsom brugerhistorier, sekvensdiagrammer, klassediagrammer samt kravspecifikation i form af MoSCoW.
 ** Uge 8                                                   :Eksamensprojekt:
 *** [2024-02-23 fre]
 Vi arbejder i dag videre med opstarten på eksamensprojektet.
@@ -156,7 +161,7 @@ Der er guides at finde her:
 - https://pybricks.com/install/mindstorms-ev3/installation/ 
 - https://pybricks.com/ev3-micropython/index.html
 *** [2024-01-04 tor] 
-Tagget siger Lega Mindstorms, men vi arbejdede faktisk med nogle små opgaver om at styre en rover på en fremmed (exoplanet).
+Tagget siger Lego Mindstorms, men vi arbejdede faktisk med nogle små opgaver om at styre en rover på en fremmed (exoplanet).
 
 Det hele er sat op på hjemmesiden: [[https://jacobdebel.github.io/Exoplaneten_programmering/]]
 
@@ -750,6 +755,11 @@ Her er et link til præsentationen knyttet til opstarten af eksamensprojektet.
 
 https://vibenshus-gymnasium-programmering.github.io/Eksamensprojekt_opstart
 
+** Algoritmer, rekursion og generativ kunst
+Her er et link til en lille beskrivelse af det, der blev arbejdet med i forbindelse med forløbet omkring algoritmer, rekursion og generativ kunst.
+
+https://github.com/Vibenshus-Gymnasium-Programmering/Algoritmer_rekursion_generativ_kunst
+
 ** Databehandling
 Her er et link til præsentationerne omkring brugen af =csv= og =pandas= til indlæsning af datafiler, plot af data med =matplotlib= samt behandling af matematiske objekter med =sympy=.
 
@@ -891,68 +901,34 @@ Opret jeres logbog ved at følge linket her: [[https://classroom.github.com/a/sl
 Sørg for at føre logbog hver uge. Der bliver holdt øje med jer. :)
 
 * UVB
-** Python og pycharm
+** TODO Eksamensprojekt
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
+- Oplæg til eksamensprojektet: https://github.com/Vibenshus-Gymnasium-Programmering/Eksamensprojekt_pro_B
+- Præsentation ifm opstarten på eksamensprojektet: https://vibenshus-gymnasium-programmering.github.io/Eksamensprojekt_opstart
 *** Arbejdsformer
-I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~ er blevet introduceret som IDE. Det har været frit for eleverne at vælge en anden editor, hvis de har ønsket det. Underviseren har selv anvendt ~emacs~.
-
-** Git 
+** TODO Robotstyring - Lego Mindstorms
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
+- Information og opgave findes her: https://github.com/Vibenshus-Gymnasium-Programmering/Lego_mindstorms_opgave
 *** Arbejdsformer
-- Installation af git 
-- Introduktion til brug af git i ~bash~ (kommandolinjen) på lokal maskine.
-- Introduktion til github og github classroom.
-- Introduktion til [[https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow][Git Feature Branch workflow]], når man arbejder selvstændigt.
-- Introduktion til [[https://docs.github.com/en/get-started/quickstart/github-flow][github flow]], når man arbejder sammen med andre.
-- Der er blevet leget med de tutorials, som ligger på [[https://learngitbranching.js.org/]].
-- Eleverne er blevet opfordret til at føre deres *logbog* i et git-repo på github classroom, hvor man f.eks. kan skrive sin tekst i enten ~markdown~- eller ~org mode~-syntaks.
-  
-** Grundlæggende programmering med ~python arcade~
+** TODO Algoritmer, rekursion og generativ kunst
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
+- En kort beskrivelse af indholdet i forløbet: https://github.com/Vibenshus-Gymnasium-Programmering/Algoritmer_rekursion_generativ_kunst
 *** Arbejdsformer
-Til introduktion til de basale elementer i programmering er bibliotektet ~arcade~ ([[https://api.arcade.academy/en/latest/]]) anvendt. ~arcade~ er blevet installeret gennem anvendelse af virtuelle miljøer og ~pip~.
-
-Ved basale elementer menes der:
-- variable
-- (simple) datatyper
-- funktioner
-- Betinget udførsel (if-statements)
-- Løkker
-
-Yderligere er OOP også introduceret vha ~arcade~-biblioteket.
-
-Meget af undervisningen er blevet inspireret af indholdet i *onlinebogen* [[https://learn.arcade.academy/en/latest/][Arcade Academy - Learn Python]]. Kapitlerne/undersiderne kan dog godt ændre sig med tiden, så derfor er der udviklet/oversat undervisningspræsentationer på dansk med tilsvarende indhold. Disse præsentationer kan findes her på siden under fanen Præsentationer og afsnittet Arcade. Præsentationerne er skrevet i ~orgmode~ med indlejret ~python~-kode, og er lagt op på github. Med den rette opsætning af emacs kan pythonkoden i præsentationerne køres interaktivt i emacs, mens eleverne kan følge med i præsentationen på github og selv nemt kan kopiere kodestumperne ind i deres IDE.
-
-Præsentationerne har været opbygget med en del småopgaver, som nemt kunne kopieres ind i pycharm eller lignende og løses simpelt. Derudover har der dog også været en række "større" opgaver, som eleverne har tilgået gennem ~github classroom~. Hver elev har derfor fået sit eget gitrepo til hver af disse opgaver, som kun de og underviseren har adgang til. Eleverne har så "afleveret" dagens arbejde med at ~pushe~ deres sidste ændringer. På den måde har det været muligt løbende at holde øje progressionen. Selve opgaverne kan også findes her på siden under fanen Opgaver og afsnittet Arcade.
-
-** Udvikling af GUIs med ~pyside6~
+** TODO Databehandling med cvs, matplotlib og sympy
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
-*** Arbejdsformer
-Til udvikling af grafiske brugerflader er der blevet anvendt biblioteket ~Qt for python~, som i folkemunde blot hedder ~pyside6~ i nuværende version. 
-
-Man kan både udvikle de grafiske brugerflader "i hånden" (skrive koden direkte) eller man kan designe brugerflader i programmet ~Designer~. Begge dele er blevet introduceret.
-
-Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestoffet:
-- arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer.
-
-Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
-** Databehandling med cvs, matplotlib og sympy
-*** Indhold og fokus
-*** Faglige mål
-*** Kernestof
-*** Anvendt materiale
+- Samlede præsentation omkring databehandling: [[https://github.com/Vibenshus-Gymnasium-Programmering/Databehandling_praesentationer]]
 *** Arbejdsformer
 
 Eleverne er i første omgang blevet introduceret til bibliotekterne =csv= og =matplotlib=, som er blevet brugt til henholdsvis at indlæse datafiler og til at visualisere indholdet af dem. Arbejdet bestod først i at afprøve og forstå givne programstumper for til sidst at kunne importere og visualisere selvvalgte datafiler.
@@ -976,25 +952,68 @@ Af kernestof er følgende dækket:
 - arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer
 - generiske programdele og biblioteksmoduler
 - arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
+  
+** TODO Udvikling af GUIs med ~pyside6~
+*** Indhold og fokus
+*** Faglige mål
+*** Kernestof
+*** Anvendt materiale
+- Samlede præsentationer om GUI-udvikling: [[https://github.com/Vibenshus-Gymnasium-Programmering/PySide6_praesentationer]]
+*** Arbejdsformer
+Til udvikling af grafiske brugerflader er der blevet anvendt biblioteket ~Qt for python~, som i folkemunde blot hedder ~pyside6~ i nuværende version. 
 
-** TODO Algoritmer, pseudokode og flowdiagrammer
+Man kan både udvikle de grafiske brugerflader "i hånden" (skrive koden direkte) eller man kan designe brugerflader i programmet ~Designer~. Begge dele er blevet introduceret.
+
+Udvikling af grafiske brugerflader skal gerne dække følgende punkt i kernestoffet:
+- arkitekturen for programmers interaktion med omgivelserne med henblik på hændelsesstyret interaktion og interaktion mellem systemer.
+
+Præsentationer og opgaver omhandlende udviklingen af grafiske brugerflader kan findes i de respektive faner her på siden.
+** TODO Grundlæggende programmering med ~python arcade~
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
+- Samlede præsentationer om grundlæggende programmering og arcade: [[https://github.com/Vibenshus-Gymnasium-Programmering/Arcade_praesentationer]]
 *** Arbejdsformer
-** TODO Robotstyring - Lego Mindstorms
+Til introduktion til de basale elementer i programmering er bibliotektet ~arcade~ ([[https://api.arcade.academy/en/latest/]]) anvendt. ~arcade~ er blevet installeret gennem anvendelse af virtuelle miljøer og ~pip~.
+
+Ved basale elementer menes der:
+- variable
+- (simple) datatyper
+- funktioner
+- Betinget udførsel (if-statements)
+- Løkker
+
+Yderligere er OOP også introduceret vha ~arcade~-biblioteket.
+
+Meget af undervisningen er blevet inspireret af indholdet i *onlinebogen* [[https://learn.arcade.academy/en/latest/][Arcade Academy - Learn Python]]. Kapitlerne/undersiderne kan dog godt ændre sig med tiden, så derfor er der udviklet/oversat undervisningspræsentationer på dansk med tilsvarende indhold. Disse præsentationer kan findes her på siden under fanen Præsentationer og afsnittet Arcade. Præsentationerne er skrevet i ~orgmode~ med indlejret ~python~-kode, og er lagt op på github. Med den rette opsætning af emacs kan pythonkoden i præsentationerne køres interaktivt i emacs, mens eleverne kan følge med i præsentationen på github og selv nemt kan kopiere kodestumperne ind i deres IDE.
+
+Præsentationerne har været opbygget med en del småopgaver, som nemt kunne kopieres ind i pycharm eller lignende og løses simpelt. Derudover har der dog også været en række "større" opgaver, som eleverne har tilgået gennem ~github classroom~. Hver elev har derfor fået sit eget gitrepo til hver af disse opgaver, som kun de og underviseren har adgang til. Eleverne har så "afleveret" dagens arbejde med at ~pushe~ deres sidste ændringer. På den måde har det været muligt løbende at holde øje progressionen. Selve opgaverne kan også findes her på siden under fanen Opgaver og afsnittet Arcade.
+
+** TODO Git 
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
+- En præsentation om brugen af git: [[https://vibenshus-gymnasium-programmering.github.io/Git_praesentation/]]
 *** Arbejdsformer
-** TODO Eksamensprojekt
+- Installation af git 
+- Introduktion til brug af git i ~bash~ (kommandolinjen) på lokal maskine.
+- Introduktion til github og github classroom.
+- Introduktion til [[https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow][Git Feature Branch workflow]], når man arbejder selvstændigt.
+- Introduktion til [[https://docs.github.com/en/get-started/quickstart/github-flow][github flow]], når man arbejder sammen med andre.
+- Der er blevet leget med de tutorials, som ligger på [[https://learngitbranching.js.org/]].
+- Eleverne er blevet opfordret til at føre deres *logbog* i et git-repo på github classroom, hvor man f.eks. kan skrive sin tekst i enten ~markdown~- eller ~org mode~-syntaks.
+  
+** TODO Python og pycharm
 *** Indhold og fokus
 *** Faglige mål
 *** Kernestof
 *** Anvendt materiale
+- En introduktionspræsentation til faget og installation af programmer: [[https://vibenshus-gymnasium-programmering.github.io/Introduktion/]]
 *** Arbejdsformer
+I undervisningen er der anvendt ~python 3~, som programmeringssprog og ~pycharm~ er blevet introduceret som IDE. Det har været frit for eleverne at vælge en anden editor, hvis de har ønsket det. Underviseren har selv anvendt ~emacs~.
+
 * Om
 Dette er en simpel hjemmeside knyttet til programmering B på Vibenshus Gymnasium for skoleårene 2022-2024.
 
