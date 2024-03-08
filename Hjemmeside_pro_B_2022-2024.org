@@ -8,6 +8,74 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 11                                                  :Eksamensprojekt:
+*** [2024-03-14 tor]
+Som en del af jeres arbejde med eksamensprojektet er det en god idé at udarbejde et gantt-diagram over projektets forløb. I den forbindelse skal det siges, at der er rigtig mange uger frem til deadline, hvor den almindelige undervisning i programmering er blevet aflyst til fordel for SOP og værkstedsuge i teknikfag.
+
+I kender nok allerede Gantt-diagrammet fra teknologi og teknikfag, men vidste I også, at det kan skrives i =plantuml=?
+
+Jeg har lavet et eksempel til jer her. I kan selv lave modifikationer til det, eller bruge et helt andet program. *I skal dog lægge mærke til, hvor få undervisningslektioner der faktisk er tilbage!*
+
+*Klik på billedet efter kildekoden, for at se Gantt-diagrammet i fuld størrelse.*
+
+#+begin_src plantuml :file img/gantt.png :eval never-export :exports both
+@startgantt
+language da
+title Gantt-diagram over eksamensprojektet
+mondays are closed
+tuesdays are closed
+wednesdays are closed
+saturdays are closed
+sundays are closed
+
+project starts 2024-02-22 
+2024-05-06 to 2024-05-11 are named [Sidste uge] 
+2024-05-12 is colored in red
+2024-03-03 to 2024-03-08 are colored in gray and is named [Studietur] and are closed
+
+2024-03-15 to 2024-03-15 is named [SOP vejledning] and is colored gray
+2024-03-25 to 2024-04-1 are closed and is named [Påskeferie] and is colored in gray
+
+2024-04-08 to 2024-04-12 are colored in gray and is named [SOP-dage] and are closed
+2024-04-15 to 2024-04-19 are colored in gray and is named [SOP skriveuge] and are closed
+2024-04-22 to 2024-04-26 are colored in gray and is named [værkstedsuge] and are closed
+-- Idegenereringsfase --
+[Idegenerering] requires 2 weeks
+-- Arbejdsfase --
+[Prototype Model] on {J. Cleese} starts after [Idegenerering]'s end and requires 3 weeks
+note bottom
+Kort
+Kortdæk
+Regler 
+end note
+[Prototype View] on {E. Idle} starts after [Idegenerering]'s end and requires 3 weeks
+note bottom
+Implementeret i arcade
+kortbagside
+kortforside
+baggrund
+end note
+
+[Prototype Controller] on {M. Palin} starts after [Idegenerering]'s end and requires 3 weeks
+note bottom
+Først cli-prototype
+Siden GUI-prototype
+end note
+-- Afslutningsfase --
+[Færdiggøre program] on {J. Cleese} {E. Idle} {M. Palin} starts 2024-04-28 and ends 2024-05-12
+[J. Cleese synopsis] starts 2024-04-28 and ends 2024-05-12
+[E. Idle synopsis] starts 2024-04-28 and ends 2024-05-12
+[M. Palin synopsis] starts 2024-04-28 and ends 2024-05-12
+
+[Deadline] happens at 2024-05-12
+hide resources footbox
+@endgantt
+#+end_src
+
+#+RESULTS:
+#+attr_html: :width 100%
+[[file:img/gantt.png]]
+
 ** Uge 9                                                   :Eksamensprojekt:
 *** [2024-02-29 tor] og [2024-03-01 fre]
 Når ugen er omme skal alle grupper have lagt sig fast på et projekt inden for de udstukne emner. Projektet skal beskrives gennem en projektbeskrivelse med tilhørende problemformulering. Denne projektbeskrivelse skal skrives ind i synopsen og skal godkendes af underviseren.
@@ -900,7 +968,7 @@ Opret jeres logbog ved at følge linket her: [[https://classroom.github.com/a/sl
 Sørg for at føre logbog hver uge. Der bliver holdt øje med jer. :)
 
 * UVB
-** TODO Eksamensprojekt
+** Eksamensprojekt
 *** Indhold og fokus
 Arbejdet med eksamensprojektet er inddelt i 3 faser. En opstartsfase, en arbejdsfase samt en afslutningsfase.
 Opstartsfasen lægger ud med gruppedannelse ud fra projektoplæggets 5 overemner og bliver efterfulgt af idégenerering, idésortering, kravspecifesering samt projektbeskrivelse. Der kan ses mere om denne opstartsfase i den tilhørende præsentation under anvendt materiale.
