@@ -8,6 +8,20 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 19                                                  :Eksamensprojekt:
+Sidste uge til at arbejde med eksamensprojektet. Der er dersværre ikke almindelig undervisning, da vores undervisning normal ligger torsdag og fredag, og i denne uge falder det sammen med Kristi Himmelfart.
+
+- Husk at deadline for aflevering af projektet er søndag d. 12. maj på lectio.
+- I skal hver især udarbejde jeres egen individuelle synopsis på mellem 5 og 8 sider fraregnet flowcharts og andre figurer. Sørg for at lægge al kode i bilag i synopsen.
+- På lectio skal I uploade al jeres kode i en zip-fil samt jeres synopsis. I må også meget gerne indsætte et link til jeres git-repo i jeres synopser.
+
+
+** Uge 18                                                  :Eksamensprojekt:
+Arbejde med eksamensprojekterne. Det er sidste uge med almindelig undervisning ifm projektet. Vi kommer til at tale om, hvad der skal være af indhold i jeres synopser.
+** Uge 15+16+17
+Ingen almindelig undervisning på grund af SOP og teknikfagsuge.
+** Uge 12 + 14                                             :Eksamensprojekt:
+Arbejde med eksamensprojekterne.
 ** Uge 11                                                  :Eksamensprojekt:
 *** [2024-03-14 tor]
 Som en del af jeres arbejde med eksamensprojektet er det en god idé at udarbejde et gantt-diagram over projektets forløb. I den forbindelse skal det siges, at der er rigtig mange uger frem til deadline, hvor den almindelige undervisning i programmering er blevet aflyst til fordel for SOP og værkstedsuge i teknikfag.
