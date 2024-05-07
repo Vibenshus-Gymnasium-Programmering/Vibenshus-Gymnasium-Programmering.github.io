@@ -9,11 +9,18 @@
 
 * Lektionsbeskrivelser
 ** Uge 19                                                  :Eksamensprojekt:
-Sidste uge til at arbejde med eksamensprojektet. Der er dersværre ikke almindelig undervisning, da vores undervisning normal ligger torsdag og fredag, og i denne uge falder det sammen med Kristi Himmelfart.
+Der var desværre mange af jer, som var fraværende til alle lektionerne i programmering i sidste uge. Det var desværre også de sidste rigtige undervisningslektioner, inden I skal aflevere jeres eksamensprojekter. I denne uge der der nemlig ikke undervisning torsdag og fredag pga. Kristi Himmelfart.
 
-- Husk at deadline for aflevering af projektet er søndag d. 12. maj på lectio.
-- I skal hver især udarbejde jeres egen individuelle synopsis på mellem 5 og 8 sider fraregnet flowcharts og andre figurer. Sørg for at lægge al kode i bilag i synopsen.
+De vigtigste pointer fra fredagens lektioner er:
+
+- *Deadline* for aflevering af projekterne er *søndag d. 12. maj på lectio* (og også gerne på jeres git repos).
+- Kildekoden til jeres programmer må I gerne deles om.
+- Jeres synopser skal udarbejdes *individuelt*, og skal fylde mellem 5 og 8 sider fraregnet kodestumper, flowcharts og andre figurer. Sørg for at lægge al kode i bilag i synopsen.
+- I kan finde en skabelon til opbygningen af synopserne i filerne =synopsis.md= og =synopsis.org= i jeres git repos. I behøver bestemt ikke at skrive i markdown eller ord mode. I må gerne skrive jeres synopser i f.eks. word eller lignende. Når I skal indsætte kodestumper i word, så følg den vejledning, som også står i =synopsis.md=.
+- Det skal tydeligt fremgå i jeres synopser og jeres fælles kode, hvilke ansvarsområder de forskellige gruppemedlemmer har haft i projektarbejdet.
+- Hvis I bliver i tvivl om, hvordan man dokumentere sin kode, så husk på, hvordan I skulle gøre det, da I skrev SRC sidste år. Ellers kan I finde mere vejledning her: https://programmering.systime.dk/?id=146 og særligt her: https://programmering.systime.dk/?id=200.
 - På lectio skal I uploade al jeres kode i en zip-fil samt jeres synopsis. I må også meget gerne indsætte et link til jeres git-repo i jeres synopser.
+- Og så det vigtigste. *I SKAL have afleveret jeres eksamensprojekter for at kunne komme til eksamen, og I skal gøre det inden deadline*.
 
 
 ** Uge 18                                                  :Eksamensprojekt:
