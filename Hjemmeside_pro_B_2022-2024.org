@@ -8,6 +8,8 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 23 Tirsdag d. 4. juni 2024
+I dag afholder vi spørgetime i programmering B. Kom frisk, kom glad så I kan få den bedst mulige forberedelse til jeres eksamen.
 ** Uge 19                                                  :Eksamensprojekt:
 Der var desværre mange af jer, som var fraværende til alle lektionerne i programmering i sidste uge. Det var desværre også de sidste rigtige undervisningslektioner, inden I skal aflevere jeres eksamensprojekter. I denne uge der der nemlig ikke undervisning torsdag og fredag pga. Kristi Himmelfart.
 
