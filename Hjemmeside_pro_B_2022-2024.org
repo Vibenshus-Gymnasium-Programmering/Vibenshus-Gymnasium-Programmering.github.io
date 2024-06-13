@@ -8,6 +8,43 @@
 #+setupfile: ./theme-bigblow-local.setup
 
 * Lektionsbeskrivelser
+** Uge 24 Torsdag d. 13. juni 2024
+Så er det på mandag og tirsdag i næste uge, at I skal til eksamen i programmering B. Det var kun ca halvdelen af jer, som dukkede op til spørgetimen, så derfor får I alle lige en sidste reminder om eksamensformen.
+
+1. Træk af *ukendt* eksamensspørgsmål med udgangspunkt i mindre programmer, som I i første omgang skal forstå og siden udvide.
+2. 60 minutters forberedelsestid til at arbejde med eksamensspørgsmålet. I skal bruge jeres egen laptop og der er fri adgang til internettet. I må dog *ikke* kommunikere med andre personer.
+3. 30 minutters eksamination.
+   - Først præsenterer I jeres eksamensprojekt, og så får I spørgsmål til eksamensprojektet. Forvent, at der mere er tale om en samtale end en forelæsning fra jeres side.
+   - Efterfølgende præsenterer I jeres arbejde med det udtrukne eksamensspørgsmål. Her skal I også forvente en samtale frem for en forelæsning.
+   - Der er ca. 12.5 minut til hver del inkl spørgsmål/samtale.
+   - Der bruges 5 minutter på karaktergivning og udskiftning af elever.
+
+Det er en god idé at have følgende pythonbiblioteker installeret i et nyt virtuelt miljø tilegnet eksamen (eller globalt i jeres pythoninstallation):
+- =arcade=
+- =matplotlib=
+- =PySide6=
+- =sympy=
+
+Det er alle biblioteker, vi har anvendt i undervisningen.
+
+Ud over dette, har vi også arbejdet med Lego Mindstorms, så det skal I også være klar på at kunne arbejde med.
+
+Det nemmeste er at anvende Visual Studio Code og så installere de to plugins som har med ev3 at gøre.
+
+Brug følgende vejledning, som I også burde have set før: https://github.com/jonascj/lego-mindstorms-ev3dev-python-how-to
+
+Alternativt kan I også bruge =git-bash= (eller en anden terminal/shell) til at tilgå ev3'erne. I førnævnte vejledning står der også lidt om brugen af en terminal.
+
+For at kunne tilgå ev3'erne skal I bruge =ssh= fra en shell (git-bash). Brugernavnet til ev3'erne er =robot= mens kodeordet er =maker=. Brug kommandoen
+
+=ssh robot@ipadresse=
+
+hvor ipadressen kan findes oppe  øverst på ev3'erens skærm, når den er startet op. I skal huske at være på =Next-Guest=-netværket.
+
+Vi/I har typisk brugt editoren =nano= til at ændre i koden, og programmerne har typisk været kørt med kommandoen
+
+=brickrun -r -- pybricks-micropython programfilnavn.py=
+
 ** Uge 23 Tirsdag d. 4. juni 2024
 I dag afholder vi spørgetime i programmering B. Kom frisk, kom glad så I kan få den bedst mulige forberedelse til jeres eksamen.
 ** Uge 19                                                  :Eksamensprojekt:
